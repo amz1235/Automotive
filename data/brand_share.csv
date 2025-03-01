@@ -1,0 +1,2419 @@
+,Segment,Brand,Model,Year,Vol
+0,car hb-a,chana,benni,2021,3
+2,car hb-a,changan,benni,2021,3
+7,car hb-a,fiat,500,2021,66
+13,car hb-a,fiat,abarth,2021,1
+20,car hb-a,hyundai,atoz,2021,195
+29,car hb-a,jac,iev6e,2021,2
+31,car hb-a,kia,picanto,2021,1
+40,car hb-a,suzuki,alto,2021,566
+44,car hb-a,suzuki,celerio,2021,41
+49,car hb-a,suzuki,spresso,2021,1773
+57,car hb-b,chevrolet,lava,2021,1
+63,car hb-b,fiat,punto,2021,1
+67,car hb-b,hyundai,i20,2021,335
+72,car hb-b,jac,s1,2021,73
+77,car hb-b,mg,3,2021,13
+81,car hb-b,opel,corsa,2021,440
+86,car hb-b,peugeot,208,2021,8
+90,car hb-b,renault,sandero,2021,704
+94,car hb-b,seat,ibiza,2021,3170
+99,car hb-b,skoda,fabia,2021,1
+103,car hb-b,suzuki,baleno,2021,974
+108,car hb-b,suzuki,swift,2021,3366
+113,car hb-b,toyota,yaris,2021,127
+121,car hb-c,bmw,xe-225,2021,4
+126,car hb-c,chevrolet,other,2021,4
+131,car hb-c,fiat,punto,2021,2
+133,car hb-c,hyundai,i30,2021,1
+138,car hb-c,mitsubishi,matrix,2021,2
+143,car hb-c,nissan,leaf,2021,1
+145,car hb-c,peugeot,308,2021,25
+149,car hb-c,seat,leon,2021,541
+154,car hb-c,seat,leon-cubra,2021,1
+159,car hb-c,skoda,scala,2021,52
+163,car hb-c,toyota,auris,2021,1
+164,car hb-c,volkswagen,golf,2021,52
+174,car-b,changan,alsvin,2021,634
+178,car-b,changan,v7,2021,11
+181,car-b,chery,a11,2021,1
+183,car-b,chery,a15,2021,2
+185,car-b,chery,arizo5,2021,4009
+190,car-b,chery,envy,2021,15
+192,car-b,chevrolet,aveo,2021,7
+196,car-b,chevrolet,lacete,2021,155
+201,car-b,chevrolet,lanos,2021,7
+203,car-b,chevrolet,other,2021,2
+205,car-b,citroen,c-elysee,2021,1393
+209,car-b,citroen,gs,2021,10
+214,car-b,citroen,s50,2021,4
+216,car-b,dongfeng,aeolos,2021,15
+228,car-b,geely,emegrand-7,2021,11
+231,car-b,geely,imprial,2021,2
+232,car-b,gwm,c30,2021,19
+236,car-b,gwm,other,2021,22
+241,car-b,honda,city,2021,175
+247,car-b,hyundai,accent-rb,2021,3151
+253,car-b,hyundai,excel,2021,2
+257,car-b,hyundai,others,2021,1
+258,car-b,hyundai,stellar,2021,4
+261,car-b,hyundai,traget,2021,1
+262,car-b,hyundai,verna,2021,13
+265,car-b,jac,ie7,2021,2
+267,car-b,jac,j3,2021,213
+272,car-b,jac,j4,2021,46
+277,car-b,jac,j5,2021,11
+281,car-b,kia,pegas,2021,1
+286,car-b,kia,rio,2021,6
+290,car-b,kia,spectra,2021,1
+291,car-b,lada,granta,2021,2360
+295,car-b,mg,2000,2021,1
+297,car-b,mg,350,2021,1
+300,car-b,mg,5,2021,8758
+305,car-b,mitsubishi,attrage,2021,2
+311,car-b,nissan,sunny,2021,13822
+318,car-b,peugeot,301,2021,2773
+323,car-b,peugeot,305,2021,1
+324,car-b,peugeot,307,2021,4
+325,car-b,proton,azura,2021,48
+326,car-b,proton,saga,2021,528
+331,car-b,renault,logan,2021,1449
+335,car-b,renault,symbol,2021,1
+342,car-b,soueast,v3,2021,116
+345,car-b,suzuki,ciaz,2021,1949
+350,car-b,suzuki,swift-dzire,2021,3216
+355,car-b,toyota,belta,2021,346
+361,car-c,bestune,b70,2021,12
+365,car-c,bestune,bestune,2021,2
+372,car-c,byd,f3,2021,5190
+378,car-c,byd,l3,2021,194
+384,car-c,changan,eado,2021,375
+393,car-c,chevrolet,c6,2021,3
+396,car-c,chevrolet,cruz,2021,1
+398,car-c,chevrolet,optra,2021,5334
+403,car-c,chevrolet,sonic,2021,4
+406,car-c,citroen,c6,2021,3
+407,car-c,dodge,neon,2021,1
+412,car-c,fiat,tipo,2021,9591
+417,car-c,ford,focus,2021,1052
+425,car-c,honda,civic,2021,222
+430,car-c,hyundai,elantra,2021,6605
+434,car-c,hyundai,elantra-ad,2021,30
+439,car-c,hyundai,elantra-cn7,2021,54
+444,car-c,hyundai,elantra-hd,2021,2168
+449,car-c,hyundai,ioniq,2021,1
+454,car-c,hyundai,solaris,2021,1
+455,car-c,jac,a60,2021,4
+459,car-c,jac,j7,2021,186
+465,car-c,kia,cerato,2021,2231
+470,car-c,kia,k3,2021,46
+477,car-c,mazda,mazda-3,2021,34
+482,car-c,mg,6,2021,2521
+487,car-c,mg,gt,2021,2
+491,car-c,mg,other,2021,149
+495,car-c,mitsubishi,lancer,2021,81
+499,car-c,nissan,kd-27,2021,2
+501,car-c,nissan,plt11,2021,12
+505,car-c,nissan,sentra,2021,2011
+514,car-c,nissan,tida,2021,5
+517,car-c,opel,astra,2021,754
+521,car-c,peugeot,505,2021,2
+522,car-c,peugeot,605,2021,1
+524,car-c,renault,megane,2021,1242
+529,car-c,seat,toledo,2021,2
+530,car-c,skoda,octavia,2021,3604
+537,car-c,subaru,impreza,2021,68
+544,car-c,toyota,corolla,2021,11682
+550,car-c,volkswagen,eos,2021,2
+553,car-c,volkswagen,jetta,2021,6
+562,car-d,chevrolet,camaro,2021,9
+569,car-d,chevrolet,d-lux,2021,2
+574,car-d,chevrolet,malibu,2021,1452
+579,car-d,chevrolet,nova,2021,1
+585,car-d,ford,fusion,2021,95
+590,car-d,honda,accord,2021,66
+596,car-d,hyundai,genesis,2021,1
+601,car-d,hyundai,sonata,2021,4
+606,car-d,kia,cadenza,2021,3
+608,car-d,kia,k5,2021,2
+619,car-d,nissan,350,2021,4
+622,car-d,nissan,gloria,2021,2
+623,car-d,opel,insignia,2021,16
+624,car-d,peugeot,504,2021,1
+625,car-d,peugeot,508,2021,1302
+630,car-d,peugeot,rcz,2021,1
+634,car-d,skoda,superb,2021,1101
+642,car-d,toyota,crown,2021,1
+646,car-d,toyota,ft86,2021,1
+651,car-d,volkswagen,lavida,2021,23
+653,car-d,volkswagen,passat,2021,1737
+657,car-d,volvo,240,2021,12
+659,car-d,volvo,s40,2021,1
+660,car-d,volvo,s90,2021,1
+663,luxury car-1,alfa romeo,junior,2021,1
+664,luxury car-2,alfa romeo,giulietta,2021,56
+667,luxury car-2,audi,a3,2021,96
+673,luxury car-2,audi,tt,2021,1
+676,luxury car-2,bmw,2-series,2021,138
+682,luxury car-2,mercedes,200,2021,2
+684,luxury car-2,mercedes,250,2021,3
+686,luxury car-2,mercedes,260,2021,1
+687,luxury car-2,mercedes,300,2021,1
+690,luxury car-2,mercedes,400,2021,3
+692,luxury car-2,mercedes,500,2021,2
+697,luxury car-2,mercedes,560,2021,1
+699,luxury car-2,mercedes,600,2021,7
+703,luxury car-2,mercedes,cd415,2021,22
+707,luxury car-2,mercedes,i200,2021,16
+711,luxury car-3,alfa romeo,giulia,2021,117
+716,luxury car-3,audi,a4,2021,90
+724,luxury car-3,bmw,3-series,2021,99
+731,luxury car-3,bmw,4-series,2021,1
+736,luxury car-3,bmw,i3,2021,3
+744,luxury car-3,bmw,m3,2021,1
+753,luxury car-3,jaguar,xe,2021,17
+756,luxury car-3,mercedes,c-class,2021,803
+761,luxury car-3,mercedes,cla,2021,709
+766,luxury car-3,mercedes,clk,2021,49
+778,luxury car-4,audi,a5,2021,79
+783,luxury car-4,audi,a6,2021,23
+791,luxury car-4,bmw,5-series,2021,102
+796,luxury car-4,bmw,6-series,2021,1
+804,luxury car-4,jaguar,xf,2021,5
+814,luxury car-4,mercedes,e-class,2021,1664
+819,luxury car-4,mercedes,e-class-e,2021,1
+828,luxury car-4,porche,panamera,2021,2
+833,luxury car-4,porche,taycan,2021,8
+845,luxury car-5,bentli,continental,2021,5
+849,luxury car-5,bentli,flying-spur,2021,15
+853,luxury car-5,bmw,7-series,2021,14
+863,luxury car-5,bmw,m8,2021,3
+869,luxury car-5,mercedes,cls,2021,10
+877,luxury car-5,mercedes,s-class,2021,233
+882,luxury car-5,rolls royce,cullinan,2021,11
+889,luxury car-5,rolls royce,phantom,2021,2
+896,luxury hb,bmw,1-series,2021,45
+903,luxury hb,mercedes,a-class,2021,1085
+908,luxury hb,mercedes,a-class-e,2021,2
+912,luxury hb,mercedes,b-class,2021,149
+917,luxury hb,mini coper,city,2021,1
+918,luxury hb,mini coper,clubman,2021,2
+921,luxury hb,mini coper,coper,2021,57
+926,luxury hb,mini coper,countryman,2021,3
+931,luxury hb,mini coper,f55,2021,4
+932,luxury hb,mini coper,f56,2021,22
+934,luxury hb,mini coper,s,2021,7
+940,luxury sport,aston martin,db11,2021,9
+943,luxury sport,aston martin,vantage,2021,2
+945,luxury sport,audi,r8,2021,1
+949,luxury sport,bentli,bentli,2021,65
+954,luxury sport,bentli,v8,2021,18
+958,luxury sport,bmw,850,2021,5
+961,luxury sport,bmw,i8,2021,4
+964,luxury sport,bmw,z-series,2021,12
+974,luxury sport,ferari,355-f,2021,2
+975,luxury sport,ferari,f8,2021,3
+980,luxury sport,ferari,pista-488,2021,1
+984,luxury sport,ferari,roma,2021,4
+992,luxury sport,jaguar,f-type,2021,9
+999,luxury sport,lamborghini,null,2021,10
+1007,luxury sport,mazarati,ghibli,2021,4
+1012,luxury sport,mazarati,quatro,2021,2
+1016,luxury sport,mercedes,gt,2021,87
+1027,luxury sport,porche,360,2021,1
+1028,luxury sport,porche,911,2021,7
+1033,luxury sport,porche,boxter,2021,13
+1038,luxury sport,porche,carrera,2021,12
+1043,luxury sport,porche,cayman,2021,11
+1051,luxury sport,tesla,null,2021,20
+1059,luxury suv-2,aston martin,dbx,2021,5
+1063,luxury suv-2,audi,q2,2021,193
+1068,luxury suv-2,audi,q3,2021,762
+1074,luxury suv-2,bmw,x1,2021,106
+1079,luxury suv-2,bmw,x2,2021,2
+1084,luxury suv-2,chrysler,pacifica,2021,1
+1090,luxury suv-2,mercedes,gla,2021,561
+1096,luxury suv-3,alfa romeo,stelvio,2021,46
+1107,luxury suv-3,bmw,ix3,2021,1
+1112,luxury suv-3,bmw,x3,2021,64
+1117,luxury suv-3,bmw,x4,2021,17
+1121,luxury suv-3,jaguar,e-pace,2021,32
+1125,luxury suv-3,land rover,evoque,2021,96
+1143,luxury suv-3,mercedes,glc,2021,672
+1148,luxury suv-3,mercedes,glc-e,2021,3
+1154,luxury suv-3,porche,macan,2021,125
+1166,luxury suv-4,audi,q5,2021,10
+1173,luxury suv-4,bentli,bentayga,2021,6
+1184,luxury suv-4,bmw,x5,2021,66
+1189,luxury suv-4,bmw,x6,2021,22
+1198,luxury suv-4,gmc,envoy,2021,6
+1203,luxury suv-4,gmc,jimmy,2021,9
+1208,luxury suv-4,gmc,terrain,2021,2
+1213,luxury suv-4,jaguar,f-pace,2021,120
+1221,luxury suv-4,land rover,defender,2021,30
+1226,luxury suv-4,land rover,discovery,2021,23
+1231,luxury suv-4,land rover,velar,2021,289
+1237,luxury suv-4,mazarati,levante,2021,4
+1247,luxury suv-4,mercedes,gle,2021,136
+1252,luxury suv-4,mercedes,glk,2021,1
+1253,luxury suv-4,porche,cayenne,2021,115
+1262,luxury suv-5,audi,q7,2021,224
+1267,luxury suv-5,audi,q8,2021,58
+1275,luxury suv-5,bmw,x7,2021,27
+1287,luxury suv-5,gmc,acadia,2021,44
+1307,luxury suv-5,land rover,range-rover,2021,553
+1312,luxury suv-5,land rover,range-rover-,2021,2
+1316,luxury suv-5,land rover,vogue,2021,51
+1320,luxury suv-5,lexus,lx570,2021,2
+1335,luxury suv-5,mercedes,g-class,2021,51
+1339,luxury suv-5,mercedes,gls,2021,30
+1350,mpv-b,baic,m60,2021,52
+1354,mpv-b,chana,gm8,2021,1
+1355,mpv-b,changhe,changhe,2021,8
+1357,mpv-b,changhe,m50s,2021,155
+1360,mpv-b,changhe,qv,2021,1
+1361,mpv-b,jac,j6,2021,5
+1364,mpv-b,kia,soul,2021,20
+1369,mpv-b,mitsubishi,xpander,2021,1265
+1375,mpv-b,suzuki,ertiga,2021,785
+1384,mpv-b,volkswagen,suran,2021,1
+1391,mpv-c,honda,odyssey,2021,1
+1394,mpv-c,kia,carens,2021,4
+1399,mpv-c,levc,tx-taxi,2021,5
+1406,mpv-c,toyota,avanza,2021,5
+1415,mpv-d,kia,carnival,2021,6
+1422,other,baic,other,2021,31
+1427,other,chery,a213,2021,1
+1428,other,chevrolet,other,2021,27
+1433,other,daewoo,other,2021,46
+1437,other,fiat,other,2021,18
+1439,other,ford,other,2021,23
+1445,other,gmc,other,2021,24
+1450,other,honda,other,2021,3
+1451,other,hyundai,other,2021,1
+1455,other,isuzu,other,2021,17
+1458,other,jac,other,2021,5
+1461,other,jeep,other,2021,2
+1462,other,kia,other,2021,27
+1467,other,lada,other,2021,16
+1476,other,mitsubishi,other,2021,30
+1481,other,opel,other,2021,2
+1486,other,others,other,2021,1
+1487,other,others,others,2021,2
+1489,other,renault,other,2021,21
+1493,other,seat,other,2021,8
+1495,other,skoda,other,2021,4
+1498,other,toyota,other,2021,63
+1502,other,volvo,other,2021,10
+1509,suv-b,baic,senova,2021,2
+1511,suv-b,baic,x3,2021,73
+1530,suv-b,changan,cs15,2021,370
+1535,suv-b,changan,other,2021,34
+1539,suv-b,changhe,q35,2021,19
+1545,suv-b,chery,tiggo3,2021,3746
+1555,suv-b,chery,x30,2021,20
+1561,suv-b,chevrolet,4hv,2021,11
+1562,suv-b,chevrolet,bolt,2021,4
+1567,suv-b,citroen,c3,2021,513
+1572,suv-b,citroen,c3-aircross,2021,2
+1574,suv-b,dfsk,eagle,2021,2
+1576,suv-b,dfsk,glory,2021,1735
+1580,suv-b,domy,x5,2021,1
+1582,suv-b,ds,ds3,2021,40
+1587,suv-b,fiat,500-x,2021,309
+1592,suv-b,ford,ecosport,2021,160
+1596,suv-b,ford,escape,2021,1
+1609,suv-b,geely,coolray,2021,1
+1623,suv-b,gwm,coolbear,2021,12
+1627,suv-b,gwm,florid,2021,5
+1634,suv-b,honda,hr-v,2021,1
+1643,suv-b,hyundai,creta,2021,512
+1648,suv-b,hyundai,kona,2021,8
+1652,suv-b,hyundai,veloster,2021,2
+1657,suv-b,jac,s2,2021,4
+1662,suv-b,jac,s3,2021,493
+1666,suv-b,jac,s4,2021,210
+1670,suv-b,jeep,patriot,2021,1
+1671,suv-b,jeep,renegade,2021,780
+1678,suv-b,kenbo,s3,2021,1
+1679,suv-b,kia,ceed,2021,24
+1683,suv-b,kia,niro,2021,3
+1689,suv-b,kia,xceed,2021,573
+1694,suv-b,kyc,x3,2021,63
+1698,suv-b,mazda,cx3,2021,91
+1703,suv-b,mg,zs,2021,5698
+1708,suv-b,mitsubishi,asx,2021,3
+1712,suv-b,mitsubishi,rvr,2021,5
+1716,suv-b,nissan,juke,2021,671
+1721,suv-b,nissan,kicks,2021,7
+1725,suv-b,opel,crossland,2021,1043
+1734,suv-b,peugeot,2008,2021,1413
+1739,suv-b,renault,captur,2021,1
+1742,suv-b,renault,duster,2021,1612
+1747,suv-b,seat,arona,2021,1145
+1752,suv-b,soueast,dx3,2021,14
+1763,suv-b,suzuki,lj-80,2021,2
+1765,suv-b,toyota,c-hr,2021,305
+1771,suv-b,volkswagen,cross-fox,2021,1
+1775,suv-b,volkswagen,t-roc,2021,1
+1784,suv-c,baic,x35,2021,3
+1787,suv-c,baic,x5,2021,4
+1792,suv-c,baic,x7,2021,3
+1805,suv-c,brilliance,v5,2021,11
+1807,suv-c,brilliance,v6,2021,28
+1817,suv-c,byd,s5,2021,3
+1830,suv-c,byd,yuan-pro,2021,1
+1833,suv-c,changan,cs35,2021,64
+1841,suv-c,changan,cs55,2021,121
+1854,suv-c,chery,chery,2021,29
+1862,suv-c,chery,tiggo4,2021,61
+1867,suv-c,chery,tiggo7,2021,4162
+1876,suv-c,chery,tiggo8,2021,786
+1885,suv-c,chevrolet,captiva,2021,2172
+1890,suv-c,chevrolet,equinox,2021,25
+1899,suv-c,chevrolet,trax,2021,18
+1904,suv-c,citroen,c4,2021,197
+1912,suv-c,citroen,c5,2021,1834
+1921,suv-c,daihatsu,terrios,2021,1
+1923,suv-c,dfsk,eagle,2021,227
+1932,suv-c,dongfeng,other,2021,4
+1943,suv-c,ds,ds7,2021,386
+1956,suv-c,ford,kuga,2021,1
+1971,suv-c,geely,x7,2021,1
+1973,suv-c,gwm,hover,2021,5
+1976,suv-c,hantang,x7s,2021,1
+1979,suv-c,haval,h6,2021,271
+1984,suv-c,haval,jolion,2021,834
+1990,suv-c,hawtai,a25,2021,1
+1991,suv-c,honda,cr-v,2021,167
+2007,suv-c,hyundai,matrix,2021,2
+2010,suv-c,hyundai,tucson,2021,8214
+2015,suv-c,jac,rein,2021,9
+2019,suv-c,jac,s5,2021,3
+2024,suv-c,jac,s7,2021,5
+2027,suv-c,jeep,wrangler,2021,4
+2033,suv-c,jetour,x70,2021,1773
+2041,suv-c,jetour,x95,2021,337
+2053,suv-c,kia,ev6,2021,2
+2056,suv-c,kia,seltos,2021,9
+2061,suv-c,kia,sportage,2021,10167
+2075,suv-c,mg,hs,2021,2082
+2083,suv-c,mg,rx5,2021,1032
+2089,suv-c,mitsubishi,eclipse,2021,1500
+2096,suv-c,nissan,ariya,2021,1
+2097,suv-c,nissan,qashqai,2021,1795
+2102,suv-c,nissan,x-trail,2021,1
+2106,suv-c,opel,grandland,2021,2010
+2111,suv-c,peugeot,3008,2021,3275
+2119,suv-c,peugeot,5008,2021,1071
+2124,suv-c,private,grand,2021,2
+2134,suv-c,renault,kadjar,2021,983
+2138,suv-c,seat,ateca,2021,1047
+2143,suv-c,seat,tarraco,2021,792
+2149,suv-c,skoda,kamiq,2021,253
+2154,suv-c,skoda,karoq,2021,628
+2159,suv-c,skoda,kodiaq,2021,2864
+2176,suv-c,ssangyong,korando,2021,2
+2180,suv-c,ssangyong,rexton,2021,4
+2181,suv-c,ssangyong,tivoli,2021,286
+2186,suv-c,ssangyong,xlv,2021,6
+2194,suv-c,subaru,outback,2021,1
+2195,suv-c,subaru,xv,2021,1545
+2199,suv-c,suzuki,grand-vitara,2021,507
+2209,suv-c,toyota,rav-4,2021,3
+2214,suv-c,toyota,rush,2021,709
+2225,suv-c,volkswagen,id4,2021,1
+2235,suv-c,volkswagen,tiguan,2021,1632
+2243,suv-c,volvo,xc40,2021,374
+2248,suv-c,volvo,xc60,2021,369
+2261,suv-c,zotye,z100,2021,21
+2274,suv-d,chevrolet,uplander,2021,1
+2285,suv-d,ford,territory,2021,1
+2301,suv-d,hyundai,santafe,2021,1
+2306,suv-d,jeep,compass,2021,7
+2310,suv-d,jeep,grand-cherokee,2021,414
+2327,suv-d,kia,k22,2021,1
+2330,suv-d,kia,sorento,2021,339
+2339,suv-d,mitsubishi,pajero,2021,37
+2346,suv-d,nissan,terra,2021,1
+2350,suv-d,nissan,terrano,2021,2
+2353,suv-d,toyota,fj-cruiser,2021,1
+2356,suv-d,toyota,fortuner,2021,877
+2362,suv-d,toyota,prado,2021,2
+2377,suv-d,volvo,v50,2021,7
+2381,suv-d,volvo,v60,2021,48
+2383,suv-d,volvo,v70,2021,1
+2384,suv-d,volvo,x270,2021,31
+2387,suv-d,volvo,x290,2021,29
+2389,suv-d,volvo,xc90,2021,177
+2394,suv-e,chevrolet,gmc,2021,19
+2400,suv-e,ford,navigator,2021,1
+2411,suv-e,toyota,land-cruiser,2021,158
+2417,undefined,xpeng,xpeng,2021,1
+1,car hb-a,chana,benni,2022,2
+3,car hb-a,changan,benni,2022,4
+4,car hb-a,changan,e-star,2022,2
+8,car hb-a,fiat,500,2022,9
+16,car hb-a,geely,kandi,2022,2
+17,car hb-a,geely,lc,2022,2
+21,car hb-a,hyundai,atoz,2022,246
+25,car hb-a,hyundai,i10,2022,156
+37,car hb-a,renault,twingo,2022,1
+38,car hb-a,renault,twizy,2022,1
+41,car hb-a,suzuki,alto,2022,296
+45,car hb-a,suzuki,celerio,2022,249
+50,car hb-a,suzuki,spresso,2022,871
+58,car hb-b,chevrolet,spark,2022,87
+65,car hb-b,hyundai,grand-i10,2022,2
+68,car hb-b,hyundai,i20,2022,756
+73,car hb-b,jac,s1,2022,78
+78,car hb-b,mg,3,2022,5
+82,car hb-b,opel,corsa,2022,1056
+87,car hb-b,peugeot,208,2022,2
+91,car hb-b,renault,sandero,2022,1108
+95,car hb-b,seat,ibiza,2022,611
+100,car hb-b,skoda,fabia,2022,3
+104,car hb-b,suzuki,baleno,2022,294
+109,car hb-b,suzuki,swift,2022,2804
+114,car hb-b,toyota,yaris,2022,72
+122,car hb-c,bmw,xe-225,2022,1
+127,car hb-c,chevrolet,other,2022,5
+134,car hb-c,hyundai,i30,2022,4
+139,car hb-c,mitsubishi,mirage,2022,45
+144,car hb-c,nissan,leaf,2022,1
+146,car hb-c,peugeot,308,2022,7
+150,car hb-c,seat,leon,2022,198
+155,car hb-c,seat,leon-cubra,2022,2
+160,car hb-c,skoda,scala,2022,105
+165,car hb-c,volkswagen,golf,2022,86
+175,car-b,changan,alsvin,2022,438
+179,car-b,changan,v7,2022,10
+184,car-b,chery,a15,2022,3
+186,car-b,chery,arizo5,2022,7000
+191,car-b,chery,envy,2022,1
+193,car-b,chevrolet,aveo,2022,4
+197,car-b,chevrolet,lacete,2022,66
+206,car-b,citroen,c-elysee,2022,918
+210,car-b,citroen,gs,2022,7
+215,car-b,citroen,s50,2022,2
+217,car-b,dongfeng,aeolos,2022,9
+220,car-b,dongfeng,aeolus,2022,130
+229,car-b,geely,emegrand-7,2022,4
+233,car-b,gwm,c30,2022,10
+237,car-b,gwm,other,2022,5
+242,car-b,honda,city,2022,105
+248,car-b,hyundai,accent-rb,2022,1347
+252,car-b,hyundai,boni,2022,3
+254,car-b,hyundai,excel,2022,2
+256,car-b,hyundai,gls,2022,1
+259,car-b,hyundai,stellar,2022,5
+263,car-b,hyundai,verna,2022,6
+266,car-b,jac,ie7,2022,2
+268,car-b,jac,j3,2022,370
+273,car-b,jac,j4,2022,380
+278,car-b,jac,j5,2022,14
+282,car-b,kia,pegas,2022,7
+287,car-b,kia,rio,2022,4
+292,car-b,lada,granta,2022,1681
+298,car-b,mg,350,2022,1
+299,car-b,mg,360,2022,1
+301,car-b,mg,5,2022,4245
+306,car-b,mitsubishi,attrage,2022,80
+310,car-b,nissan,selfie,2022,1
+312,car-b,nissan,sunny,2022,14328
+317,car-b,others,other,2022,1
+319,car-b,peugeot,301,2022,970
+327,car-b,proton,saga,2022,659
+332,car-b,renault,logan,2022,1411
+336,car-b,renault,symbol,2022,5
+343,car-b,soueast,v3,2022,128
+346,car-b,suzuki,ciaz,2022,1901
+351,car-b,suzuki,swift-dzire,2022,4781
+356,car-b,toyota,belta,2022,2353
+362,car-c,bestune,b70,2022,82
+366,car-c,bestune,bestune,2022,12
+369,car-c,brilliance,h530,2022,2
+373,car-c,byd,f3,2022,4440
+377,car-c,byd,g3,2022,2
+379,car-c,byd,l3,2022,460
+385,car-c,changan,eado,2022,313
+394,car-c,chevrolet,c6,2022,2
+397,car-c,chevrolet,cruz,2022,2
+399,car-c,chevrolet,optra,2022,3158
+404,car-c,chevrolet,sonic,2022,4
+408,car-c,dodge,neon,2022,1
+413,car-c,fiat,tipo,2022,6274
+418,car-c,ford,focus,2022,539
+426,car-c,honda,civic,2022,93
+431,car-c,hyundai,elantra,2022,3450
+435,car-c,hyundai,elantra-ad,2022,17
+440,car-c,hyundai,elantra-cn7,2022,59
+445,car-c,hyundai,elantra-hd,2022,987
+456,car-c,jac,a60,2022,1
+460,car-c,jac,j7,2022,799
+466,car-c,kia,cerato,2022,2227
+471,car-c,kia,k3,2022,114
+478,car-c,mazda,mazda-3,2022,7
+483,car-c,mg,6,2022,1871
+492,car-c,mg,other,2022,51
+496,car-c,mitsubishi,lancer,2022,8
+500,car-c,nissan,kd-27,2022,1
+502,car-c,nissan,plt11,2022,9
+506,car-c,nissan,sentra,2022,2155
+510,car-c,nissan,skyline,2022,2
+512,car-c,nissan,sx200,2022,2
+515,car-c,nissan,tida,2022,3
+516,car-c,nissan,سيدرك,2022,1
+518,car-c,opel,astra,2022,53
+520,car-c,peugeot,504,2022,1
+523,car-c,peugeot,607,2022,1
+525,car-c,renault,megane,2022,2915
+531,car-c,skoda,octavia,2022,1791
+538,car-c,subaru,impreza,2022,16
+541,car-c,toyota,aurion,2022,2
+545,car-c,toyota,corolla,2022,6168
+551,car-c,volkswagen,eos,2022,1
+554,car-c,volkswagen,jetta,2022,3
+563,car-d,chevrolet,camaro,2022,14
+567,car-d,chevrolet,caprice,2022,1
+570,car-d,chevrolet,d-lux,2022,5
+572,car-d,chevrolet,impala,2022,1
+575,car-d,chevrolet,malibu,2022,1025
+580,car-d,chevrolet,nova,2022,1
+582,car-d,chevrolet,other,2022,2
+584,car-d,chevrolet,skyline,2022,1
+586,car-d,ford,fusion,2022,23
+591,car-d,honda,accord,2022,61
+597,car-d,hyundai,genesis,2022,5
+602,car-d,hyundai,sonata,2022,6
+609,car-d,kia,k5,2022,3
+614,car-d,kia,optima,2022,2
+620,car-d,nissan,350,2022,3
+626,car-d,peugeot,508,2022,737
+635,car-d,skoda,superb,2022,609
+639,car-d,toyota,camry,2022,11
+643,car-d,toyota,crown,2022,1
+647,car-d,toyota,ft86,2022,1
+652,car-d,volkswagen,lavida,2022,17
+654,car-d,volkswagen,passat,2022,270
+658,car-d,volvo,240,2022,1
+665,luxury car-2,alfa romeo,giulietta,2022,8
+668,luxury car-2,audi,a3,2022,174
+677,luxury car-2,bmw,2-series,2022,38
+683,luxury car-2,mercedes,200,2022,1
+685,luxury car-2,mercedes,250,2022,1
+688,luxury car-2,mercedes,300,2022,4
+691,luxury car-2,mercedes,400,2022,2
+693,luxury car-2,mercedes,500,2022,1
+696,luxury car-2,mercedes,55,2022,3
+698,luxury car-2,mercedes,560,2022,1
+700,luxury car-2,mercedes,600,2022,11
+704,luxury car-2,mercedes,cd415,2022,25
+708,luxury car-2,mercedes,i200,2022,10
+712,luxury car-3,alfa romeo,giulia,2022,31
+717,luxury car-3,audi,a4,2022,132
+725,luxury car-3,bmw,3-series,2022,24
+732,luxury car-3,bmw,4-series,2022,16
+737,luxury car-3,bmw,i3,2022,3
+745,luxury car-3,bmw,m3,2022,2
+749,luxury car-3,bmw,m4,2022,8
+754,luxury car-3,jaguar,xe,2022,3
+757,luxury car-3,mercedes,c-class,2022,1895
+762,luxury car-3,mercedes,cla,2022,403
+767,luxury car-3,mercedes,clk,2022,22
+770,luxury car-3,mercedes,e-240,2022,1
+771,luxury car-3,tesla,model-3,2022,5
+779,luxury car-4,audi,a5,2022,58
+784,luxury car-4,audi,a6,2022,35
+792,luxury car-4,bmw,5-series,2022,20
+797,luxury car-4,bmw,6-series,2022,2
+800,luxury car-4,bmw,m5,2022,1
+805,luxury car-4,jaguar,xf,2022,1
+815,luxury car-4,mercedes,e-class,2022,939
+820,luxury car-4,mercedes,e-class-e,2022,17
+824,luxury car-4,mercedes,eqe,2022,1
+829,luxury car-4,porche,panamera,2022,3
+834,luxury car-4,porche,taycan,2022,20
+838,luxury car-4,tesla,model-s,2022,1
+846,luxury car-5,bentli,continental,2022,3
+850,luxury car-5,bentli,flying-spur,2022,5
+854,luxury car-5,bmw,7-series,2022,2
+868,luxury car-5,jaguar,x3,2022,1
+870,luxury car-5,mercedes,cls,2022,19
+873,luxury car-5,mercedes,eqs,2022,14
+878,luxury car-5,mercedes,s-class,2022,155
+883,luxury car-5,rolls royce,cullinan,2022,10
+897,luxury hb,bmw,1-series,2022,10
+904,luxury hb,mercedes,a-class,2022,383
+909,luxury hb,mercedes,a-class-e,2022,6
+913,luxury hb,mercedes,b-class,2022,116
+922,luxury hb,mini coper,coper,2022,13
+927,luxury hb,mini coper,countryman,2022,4
+935,luxury hb,mini coper,s,2022,3
+941,luxury sport,aston martin,db11,2022,5
+944,luxury sport,aston martin,vantage,2022,4
+946,luxury sport,audi,r8,2022,1
+950,luxury sport,bentli,bentli,2022,36
+955,luxury sport,bentli,v8,2022,15
+959,luxury sport,bmw,850,2022,2
+962,luxury sport,bmw,i8,2022,6
+965,luxury sport,bmw,z-series,2022,4
+976,luxury sport,ferari,f8,2022,7
+981,luxury sport,ferari,portofino,2022,2
+985,luxury sport,ferari,roma,2022,1
+989,luxury sport,ford,mustang,2022,3
+993,luxury sport,jaguar,f-type,2022,4
+1000,luxury sport,lamborghini,null,2022,4
+1004,luxury sport,maclaren,570s,2022,1
+1005,luxury sport,maclaren,720s,2022,1
+1008,luxury sport,mazarati,ghibli,2022,8
+1013,luxury sport,mazarati,quatro,2022,1
+1015,luxury sport,mercedes,a-gtr,2022,1
+1017,luxury sport,mercedes,gt,2022,51
+1029,luxury sport,porche,911,2022,12
+1034,luxury sport,porche,boxter,2022,8
+1039,luxury sport,porche,carrera,2022,5
+1044,luxury sport,porche,cayman,2022,2
+1049,luxury sport,porche,spyder,2022,1
+1052,luxury sport,tesla,null,2022,32
+1060,luxury suv-2,aston martin,dbx,2022,3
+1064,luxury suv-2,audi,q2,2022,27
+1069,luxury suv-2,audi,q3,2022,516
+1075,luxury suv-2,bmw,x1,2022,6
+1080,luxury suv-2,bmw,x2,2022,3
+1091,luxury suv-2,mercedes,gla,2022,324
+1097,luxury suv-3,alfa romeo,stelvio,2022,46
+1108,luxury suv-3,bmw,ix3,2022,5
+1113,luxury suv-3,bmw,x3,2022,4
+1122,luxury suv-3,jaguar,e-pace,2022,5
+1126,luxury suv-3,land rover,evoque,2022,70
+1133,luxury suv-3,mercedes,eqb,2022,3
+1137,luxury suv-3,mercedes,eqc,2022,2
+1144,luxury suv-3,mercedes,glc,2022,469
+1149,luxury suv-3,mercedes,glc-e,2022,12
+1155,luxury suv-3,porche,macan,2022,99
+1159,luxury suv-3,tesla,model-y,2022,13
+1167,luxury suv-4,audi,q5,2022,4
+1174,luxury suv-4,bentli,bentayga,2022,3
+1178,luxury suv-4,bmw,ix,2022,4
+1185,luxury suv-4,bmw,x5,2022,3
+1199,luxury suv-4,gmc,envoy,2022,8
+1204,luxury suv-4,gmc,jimmy,2022,15
+1209,luxury suv-4,gmc,terrain,2022,11
+1214,luxury suv-4,jaguar,f-pace,2022,28
+1218,luxury suv-4,jaguar,i-pace,2022,4
+1222,luxury suv-4,land rover,defender,2022,18
+1228,luxury suv-4,land rover,freelander,2022,2
+1232,luxury suv-4,land rover,velar,2022,272
+1236,luxury suv-4,lexus,rx-350,2022,1
+1238,luxury suv-4,mazarati,levante,2022,20
+1248,luxury suv-4,mercedes,gle,2022,464
+1254,luxury suv-4,porche,cayenne,2022,116
+1263,luxury suv-5,audi,q7,2022,163
+1268,luxury suv-5,audi,q8,2022,79
+1276,luxury suv-5,bmw,x7,2022,1
+1280,luxury suv-5,cadillac ,escalade,2022,1
+1288,luxury suv-5,gmc,acadia,2022,26
+1297,luxury suv-5,gmc,yukon,2022,1
+1301,luxury suv-5,lamborghini,urus,2022,12
+1308,luxury suv-5,land rover,range-rover,2022,218
+1313,luxury suv-5,land rover,range-rover-,2022,12
+1317,luxury suv-5,land rover,vogue,2022,7
+1321,luxury suv-5,lexus,lx570,2022,2
+1330,luxury suv-5,lincoln ,navigator,2022,1
+1331,luxury suv-5,mercedes,eqs-suv,2022,9
+1336,luxury suv-5,mercedes,g-class,2022,25
+1340,luxury suv-5,mercedes,gls,2022,287
+1347,mpv-b,baic,changhe,2022,22
+1351,mpv-b,baic,m60,2022,17
+1356,mpv-b,changhe,changhe,2022,1
+1358,mpv-b,changhe,m50s,2022,1
+1362,mpv-b,jac,j6,2022,3
+1365,mpv-b,kia,soul,2022,34
+1370,mpv-b,mitsubishi,xpander,2022,1073
+1376,mpv-b,suzuki,ertiga,2022,587
+1380,mpv-b,toyota,rumion,2022,225
+1383,mpv-b,toyota,seinta,2022,1
+1385,mpv-b,volkswagen,suran,2022,1
+1388,mpv-c,ford,cmax,2022,12
+1392,mpv-c,keyton,ex80,2022,4
+1395,mpv-c,kia,carens,2022,10
+1400,mpv-c,levc,tx-taxi,2022,51
+1402,mpv-c,renault,lodgy,2022,2
+1403,mpv-c,swm,x2,2022,5
+1407,mpv-c,toyota,avanza,2022,10
+1416,mpv-d,kia,carnival,2022,4
+1421,other,alfa romeo,other,2022,1
+1423,other,baic,other,2022,11
+1425,other,brilliance,other,2022,1
+1429,other,chevrolet,other,2022,66
+1434,other,daewoo,other,2022,27
+1438,other,fiat,other,2022,8
+1440,other,ford,other,2022,12
+1442,other,geely,other,2022,3
+1446,other,gmc,other,2022,9
+1452,other,hyundai,other,2022,4
+1456,other,isuzu,other,2022,11
+1459,other,jac,other,2022,5
+1463,other,kia,other,2022,19
+1468,other,lada,other,2022,431
+1471,other,mercedes,other,2022,2
+1473,other,mg,other,2022,3
+1477,other,mitsubishi,other,2022,23
+1482,other,opel,other,2022,12
+1488,other,others,others,2022,1
+1490,other,renault,other,2022,16
+1494,other,seat,other,2022,1
+1496,other,skoda,other,2022,3
+1497,other,soueast,other,2022,1
+1499,other,toyota,other,2022,56
+1503,other,volvo,other,2022,36
+1510,suv-b,baic,x25,2022,1
+1512,suv-b,baic,x3,2022,567
+1516,suv-b,bestune,t33,2022,32
+1522,suv-b,byd,yuan,2022,5
+1526,suv-b,byd,yuan-plus,2022,8
+1531,suv-b,changan,cs15,2022,411
+1536,suv-b,changan,other,2022,154
+1540,suv-b,changhe,q35,2022,39
+1546,suv-b,chery,tiggo3,2022,5970
+1556,suv-b,chery,x30,2022,12
+1559,suv-b,chevrolet,4h5,2022,1
+1563,suv-b,chevrolet,bolt,2022,60
+1564,suv-b,chevrolet,groove,2022,2
+1568,suv-b,citroen,c3,2022,753
+1575,suv-b,dfsk,eagle,2022,4
+1577,suv-b,dfsk,glory,2022,985
+1583,suv-b,ds,ds3,2022,9
+1588,suv-b,fiat,500-x,2022,155
+1593,suv-b,ford,ecosport,2022,118
+1597,suv-b,ford,escape,2022,4
+1601,suv-b,gac,aion-y,2022,1
+1610,suv-b,geely,coolray,2022,570
+1614,suv-b,geely,ex3,2022,2
+1616,suv-b,geely,gc5,2022,1
+1619,suv-b,geely,gx3,2022,1
+1624,suv-b,gwm,coolbear,2022,2
+1628,suv-b,gwm,florid,2022,3
+1635,suv-b,honda,hr-v,2022,6
+1639,suv-b,hyundai,bayon,2022,1338
+1644,suv-b,hyundai,creta,2022,323
+1649,suv-b,hyundai,kona,2022,6
+1658,suv-b,jac,s2,2022,1
+1663,suv-b,jac,s3,2022,72
+1667,suv-b,jac,s4,2022,50
+1672,suv-b,jeep,renegade,2022,932
+1675,suv-b,kaiyi,x3,2022,16
+1680,suv-b,kia,ceed,2022,10
+1690,suv-b,kia,xceed,2022,2068
+1695,suv-b,kyc,x3,2022,61
+1699,suv-b,mazda,cx3,2022,30
+1704,suv-b,mg,zs,2022,3120
+1709,suv-b,mitsubishi,asx,2022,1
+1713,suv-b,mitsubishi,rvr,2022,2
+1717,suv-b,nissan,juke,2022,658
+1722,suv-b,nissan,kicks,2022,11
+1726,suv-b,opel,crossland,2022,1257
+1730,suv-b,opel,mokka,2022,952
+1735,suv-b,peugeot,2008,2022,753
+1740,suv-b,renault,captur,2022,2
+1743,suv-b,renault,duster,2022,1188
+1748,suv-b,seat,arona,2022,220
+1753,suv-b,soueast,dx3,2022,53
+1759,suv-b,suzuki,jimny,2022,17
+1764,suv-b,suzuki,lj-80,2022,1
+1766,suv-b,toyota,c-hr,2022,233
+1772,suv-b,volkswagen,cross-fox,2022,3
+1776,suv-b,volkswagen,t-roc,2022,32
+1785,suv-c,baic,x35,2022,2
+1788,suv-c,baic,x5,2022,75
+1793,suv-c,baic,x7,2022,62
+1798,suv-c,bestune,t55,2022,33
+1801,suv-c,bestune,t77,2022,29
+1806,suv-c,brilliance,v5,2022,2
+1808,suv-c,brilliance,v6,2022,14
+1813,suv-c,byd,ev600,2022,4
+1818,suv-c,byd,s5,2022,2
+1831,suv-c,byd,yuan-pro,2022,4
+1834,suv-c,changan,cs35,2022,255
+1842,suv-c,changan,cs55,2022,205
+1849,suv-c,changan,cx70,2022,1
+1855,suv-c,chery,chery,2022,32
+1863,suv-c,chery,tiggo4,2022,21
+1868,suv-c,chery,tiggo7,2022,5948
+1872,suv-c,chery,tiggo7-pro,2022,632
+1877,suv-c,chery,tiggo8,2022,629
+1881,suv-c,chery,tiggo8-pro,2022,27
+1886,suv-c,chevrolet,captiva,2022,381
+1891,suv-c,chevrolet,equinox,2022,24
+1896,suv-c,chevrolet,menlo,2022,2
+1900,suv-c,chevrolet,trax,2022,7
+1905,suv-c,citroen,c4,2022,590
+1913,suv-c,citroen,c5,2022,1726
+1917,suv-c,cubra,formentor,2022,120
+1924,suv-c,dfsk,eagle,2022,222
+1933,suv-c,dongfeng,other,2022,30
+1937,suv-c,dongfeng,venucia,2022,36
+1944,suv-c,ds,ds7,2022,318
+1957,suv-c,forthing,t5-evo,2022,158
+1963,suv-c,gac,gs4,2022,1
+1972,suv-c,geely,x7,2022,1
+1974,suv-c,gwm,hover,2022,1
+1977,suv-c,hantang,x7s,2022,3
+1980,suv-c,haval,h6,2022,907
+1985,suv-c,haval,jolion,2022,797
+1992,suv-c,honda,cr-v,2022,185
+1999,suv-c,honda,mnv,2022,5
+2008,suv-c,hyundai,matrix,2022,5
+2011,suv-c,hyundai,tucson,2022,4246
+2016,suv-c,jac,rein,2022,11
+2020,suv-c,jac,s5,2022,6
+2025,suv-c,jac,s7,2022,4
+2028,suv-c,jeep,wrangler,2022,8
+2034,suv-c,jetour,x70,2022,936
+2042,suv-c,jetour,x95,2022,769
+2057,suv-c,kia,seltos,2022,27
+2062,suv-c,kia,sportage,2022,6056
+2067,suv-c,kyc,x5,2022,1
+2076,suv-c,mg,hs,2022,1680
+2084,suv-c,mg,rx5,2022,444
+2090,suv-c,mitsubishi,eclipse,2022,844
+2098,suv-c,nissan,qashqai,2022,1415
+2103,suv-c,nissan,x-trail,2022,1
+2107,suv-c,opel,grandland,2022,357
+2112,suv-c,peugeot,3008,2022,2153
+2120,suv-c,peugeot,5008,2022,1008
+2125,suv-c,private,grand,2022,1
+2135,suv-c,renault,kadjar,2022,662
+2139,suv-c,seat,ateca,2022,305
+2144,suv-c,seat,tarraco,2022,350
+2150,suv-c,skoda,kamiq,2022,183
+2155,suv-c,skoda,karoq,2022,55
+2160,suv-c,skoda,kodiaq,2022,1421
+2170,suv-c,soueast,dx7-prime,2022,19
+2177,suv-c,ssangyong,korando,2022,2
+2182,suv-c,ssangyong,tivoli,2022,343
+2187,suv-c,ssangyong,xlv,2022,5
+2196,suv-c,subaru,xv,2022,194
+2200,suv-c,suzuki,grand-vitara,2022,297
+2210,suv-c,toyota,rav-4,2022,2
+2215,suv-c,toyota,rush,2022,672
+2226,suv-c,volkswagen,id4,2022,211
+2231,suv-c,volkswagen,t-cross,2022,1
+2236,suv-c,volkswagen,tiguan,2022,365
+2244,suv-c,volvo,xc40,2022,248
+2249,suv-c,volvo,xc60,2022,64
+2253,suv-c,xpeng,g3,2022,1
+2255,suv-c,zeekr,1,2022,1
+2262,suv-c,zotye,z100,2022,3
+2271,suv-d,chevrolet,blazer,2022,2
+2275,suv-d,chevrolet,uplander,2022,1
+2276,suv-d,cubra,cubra,2022,1
+2290,suv-d,geely,okavango,2022,528
+2300,suv-d,hyundai,galloper,2022,2
+2302,suv-d,hyundai,santafe,2022,1
+2307,suv-d,jeep,compass,2022,8
+2311,suv-d,jeep,grand-cherokee,2022,589
+2331,suv-d,kia,sorento,2022,140
+2340,suv-d,mitsubishi,pajero,2022,63
+2347,suv-d,nissan,terra,2022,2
+2351,suv-d,toyota,4runner,2022,2
+2357,suv-d,toyota,fortuner,2022,1214
+2363,suv-d,toyota,prado,2022,6
+2367,suv-d,volkswagen,id6,2022,39
+2378,suv-d,volvo,v50,2022,10
+2382,suv-d,volvo,v60,2022,5
+2385,suv-d,volvo,x270,2022,1
+2388,suv-d,volvo,x290,2022,3
+2390,suv-d,volvo,xc90,2022,89
+2395,suv-e,chevrolet,gmc,2022,46
+2399,suv-e,ford,expedition,2022,1
+2404,suv-e,nissan,patrol,2022,6
+2412,suv-e,toyota,land-cruiser,2022,182
+5,car hb-a,changan,e-star,2023,7
+9,car hb-a,fiat,500,2023,5
+12,car hb-a,fiat,500-dolcevita,2023,1
+14,car hb-a,fiat,abarth,2023,2
+18,car hb-a,helmarv,panda,2023,1
+22,car hb-a,hyundai,atoz,2023,179
+26,car hb-a,hyundai,i10,2023,12
+32,car hb-a,kia,picanto,2023,139
+35,car hb-a,kia,ray,2023,1
+36,car hb-a,kia,visto,2023,1
+42,car hb-a,suzuki,alto,2023,8
+46,car hb-a,suzuki,celerio,2023,137
+51,car hb-a,suzuki,spresso,2023,200
+54,car hb-b,byd,seagull,2023,14
+59,car hb-b,chevrolet,spark,2023,5
+69,car hb-b,hyundai,i20,2023,81
+71,car hb-b,jac,a10,2023,1
+74,car hb-b,jac,s1,2023,20
+79,car hb-b,mg,3,2023,3
+83,car hb-b,opel,corsa,2023,438
+88,car hb-b,peugeot,208,2023,2
+92,car hb-b,renault,sandero,2023,910
+96,car hb-b,seat,ibiza,2023,178
+101,car hb-b,skoda,fabia,2023,50
+105,car hb-b,suzuki,baleno,2023,258
+110,car hb-b,suzuki,swift,2023,1150
+115,car hb-b,toyota,yaris,2023,41
+117,car hb-b,volkswagen,id3,2023,7
+123,car hb-c,byd,dolphin,2023,7
+128,car hb-c,chevrolet,other,2023,1
+132,car hb-c,hycan,z03,2023,1
+135,car hb-c,mg,4,2023,1
+140,car hb-c,mitsubishi,mirage,2023,147
+147,car hb-c,peugeot,308,2023,1
+151,car hb-c,seat,leon,2023,223
+156,car hb-c,seat,leon-cubra,2023,2
+161,car hb-c,skoda,scala,2023,20
+166,car hb-c,volkswagen,golf,2023,106
+170,car hb-c,volkswagen,scrocco,2023,1
+176,car-b,changan,alsvin,2023,72
+180,car-b,changan,v7,2023,2
+182,car-b,chery,a11,2023,1
+187,car-b,chery,arizo5,2023,2827
+194,car-b,chevrolet,aveo,2023,5
+198,car-b,chevrolet,lacete,2023,7
+202,car-b,chevrolet,lanos,2023,1
+204,car-b,chevrolet,other,2023,1
+207,car-b,citroen,c-elysee,2023,344
+211,car-b,citroen,gs,2023,2
+213,car-b,citroen,other,2023,1
+218,car-b,dongfeng,aeolos,2023,2
+221,car-b,dongfeng,aeolus,2023,23
+223,car-b,dongfeng,e70-pro,2023,18
+227,car-b,dongfeng,s30,2023,1
+234,car-b,gwm,c30,2023,4
+238,car-b,gwm,other,2023,2
+243,car-b,honda,city,2023,30
+246,car-b,honda,other,2023,1
+249,car-b,hyundai,accent-rb,2023,2181
+260,car-b,hyundai,stellar,2023,2
+269,car-b,jac,j3,2023,68
+274,car-b,jac,j4,2023,101
+279,car-b,jac,j5,2023,12
+283,car-b,kia,pegas,2023,11
+288,car-b,kia,rio,2023,23
+293,car-b,lada,granta,2023,112
+296,car-b,mg,2000,2023,1
+302,car-b,mg,5,2023,1620
+307,car-b,mitsubishi,attrage,2023,217
+313,car-b,nissan,sunny,2023,6555
+316,car-b,nissan,versa,2023,1
+320,car-b,peugeot,301,2023,127
+328,car-b,proton,saga,2023,319
+333,car-b,renault,logan,2023,232
+337,car-b,renault,symbol,2023,7
+339,car-b,renault,taliant,2023,2
+344,car-b,soueast,v3,2023,6
+347,car-b,suzuki,ciaz,2023,858
+352,car-b,suzuki,swift-dzire,2023,1161
+357,car-b,toyota,belta,2023,42
+360,car-b,toyota,other,2023,1
+363,car-c,bestune,b70,2023,37
+367,car-c,bestune,bestune,2023,2
+370,car-c,brilliance,h530,2023,192
+374,car-c,byd,f3,2023,4241
+380,car-c,byd,l3,2023,42
+386,car-c,changan,eado,2023,29
+395,car-c,chevrolet,c6,2023,1
+400,car-c,chevrolet,optra,2023,263
+405,car-c,chevrolet,sonic,2023,1
+409,car-c,dodge,neon,2023,8
+410,car-c,dongfeng,a30,2023,3
+414,car-c,fiat,tipo,2023,707
+419,car-c,ford,focus,2023,229
+422,car-c,gac,empow,2023,53
+427,car-c,honda,civic,2023,209
+432,car-c,hyundai,elantra,2023,754
+436,car-c,hyundai,elantra-ad,2023,2
+441,car-c,hyundai,elantra-cn7,2023,189
+446,car-c,hyundai,elantra-hd,2023,590
+450,car-c,hyundai,ioniq,2023,12
+457,car-c,jac,a60,2023,3
+458,car-c,jac,ej7,2023,2
+461,car-c,jac,j7,2023,271
+463,car-c,jmc,gse,2023,1
+467,car-c,kia,cerato,2023,463
+472,car-c,kia,k3,2023,175
+479,car-c,mazda,mazda-3,2023,3
+484,car-c,mg,6,2023,392
+488,car-c,mg,gt,2023,18
+493,car-c,mg,other,2023,12
+497,car-c,mitsubishi,lancer,2023,12
+503,car-c,nissan,plt11,2023,4
+507,car-c,nissan,sentra,2023,1352
+511,car-c,nissan,skyline,2023,1
+513,car-c,nissan,sx200,2023,1
+526,car-c,renault,megane,2023,2336
+532,car-c,skoda,octavia,2023,1695
+535,car-c,soueast,a5,2023,35
+539,car-c,subaru,impreza,2023,54
+546,car-c,toyota,corolla,2023,2749
+549,car-c,volkswagen,bora,2023,1
+555,car-c,volkswagen,jetta,2023,19
+558,car-d,byd,han,2023,4
+564,car-d,chevrolet,camaro,2023,6
+573,car-d,chevrolet,impala,2023,2
+576,car-d,chevrolet,malibu,2023,244
+583,car-d,chevrolet,other,2023,5
+587,car-d,ford,fusion,2023,2
+592,car-d,honda,accord,2023,378
+595,car-d,hyundai,centennial,2023,2
+599,car-d,hyundai,grandeur,2023,6
+603,car-d,hyundai,sonata,2023,13
+610,car-d,kia,k5,2023,13
+612,car-d,kia,k8,2023,2
+615,car-d,kia,optima,2023,1
+621,car-d,nissan,350,2023,1
+627,car-d,peugeot,508,2023,94
+631,car-d,polestar,2,2023,3
+633,car-d,renault,fluence,2023,1
+636,car-d,skoda,superb,2023,492
+644,car-d,toyota,crown,2023,1
+648,car-d,toyota,ft86,2023,1
+655,car-d,volkswagen,passat,2023,551
+666,luxury car-2,alfa romeo,giulietta,2023,2
+669,luxury car-2,audi,a3,2023,379
+672,luxury car-2,audi,quatro,2023,2
+674,luxury car-2,audi,tt,2023,1
+678,luxury car-2,bmw,2-series,2023,129
+681,luxury car-2,bmw,m235i,2023,1
+689,luxury car-2,mercedes,300,2023,1
+694,luxury car-2,mercedes,500,2023,1
+701,luxury car-2,mercedes,600,2023,6
+705,luxury car-2,mercedes,cd415,2023,5
+709,luxury car-2,mercedes,i200,2023,4
+713,luxury car-3,alfa romeo,giulia,2023,57
+718,luxury car-3,audi,a4,2023,110
+721,luxury car-3,audi,rs3,2023,1
+726,luxury car-3,bmw,3-series,2023,683
+729,luxury car-3,bmw,3-series-e,2023,3
+733,luxury car-3,bmw,4-series,2023,131
+738,luxury car-3,bmw,i3,2023,24
+741,luxury car-3,bmw,i4,2023,8
+746,luxury car-3,bmw,m3,2023,14
+750,luxury car-3,bmw,m4,2023,15
+755,luxury car-3,jaguar,xe,2023,3
+758,luxury car-3,mercedes,c-class,2023,2229
+763,luxury car-3,mercedes,cla,2023,386
+768,luxury car-3,mercedes,clk,2023,3
+772,luxury car-3,tesla,model-3,2023,19
+780,luxury car-4,audi,a5,2023,135
+785,luxury car-4,audi,a6,2023,60
+788,luxury car-4,audi,rs7,2023,1
+793,luxury car-4,bmw,5-series,2023,501
+801,luxury car-4,bmw,m5,2023,1
+803,luxury car-4,dodge,challenger,2023,1
+808,luxury car-4,mercedes,a-c43,2023,2
+810,luxury car-4,mercedes,a-gt43,2023,1
+816,luxury car-4,mercedes,e-class,2023,593
+821,luxury car-4,mercedes,e-class-e,2023,48
+825,luxury car-4,mercedes,eqe,2023,30
+830,luxury car-4,porche,panamera,2023,4
+835,luxury car-4,porche,taycan,2023,33
+839,luxury car-4,tesla,model-s,2023,3
+841,luxury car-5,audi,a7,2023,2
+847,luxury car-5,bentli,continental,2023,8
+851,luxury car-5,bentli,flying-spur,2023,7
+855,luxury car-5,bmw,7-series,2023,11
+858,luxury car-5,bmw,i7,2023,8
+861,luxury car-5,bmw,m7-e,2023,1
+864,luxury car-5,bmw,m8,2023,6
+871,luxury car-5,mercedes,cls,2023,3
+874,luxury car-5,mercedes,eqs,2023,40
+879,luxury car-5,mercedes,s-class,2023,192
+884,luxury car-5,rolls royce,cullinan,2023,6
+886,luxury car-5,rolls royce,ghost,2023,1
+893,luxury car-5,rolls royce,wraith,2023,1
+894,luxury hb,audi,a1,2023,1
+898,luxury hb,bmw,1-series,2023,23
+901,luxury hb,bmw,i3,2023,1
+902,luxury hb,bmw,m135i,2023,1
+905,luxury hb,mercedes,a-class,2023,198
+910,luxury hb,mercedes,a-class-e,2023,11
+914,luxury hb,mercedes,b-class,2023,24
+923,luxury hb,mini coper,coper,2023,84
+928,luxury hb,mini coper,countryman,2023,73
+936,luxury hb,mini coper,s,2023,26
+947,luxury sport,audi,r8,2023,2
+951,luxury sport,bentli,bentli,2023,17
+956,luxury sport,bentli,v8,2023,5
+960,luxury sport,bmw,850,2023,1
+963,luxury sport,bmw,i8,2023,2
+966,luxury sport,bmw,z-series,2023,15
+969,luxury sport,byd,seal,2023,7
+971,luxury sport,ferari,296gtb,2023,3
+978,luxury sport,ferari,gts812,2023,3
+982,luxury sport,ferari,portofino,2023,2
+986,luxury sport,ferari,roma,2023,2
+988,luxury sport,ferari,sf90,2023,1
+990,luxury sport,ford,mustang,2023,7
+994,luxury sport,jaguar,f-type,2023,10
+996,luxury sport,lamborghini,huracan,2023,5
+1003,luxury sport,lotus,evora,2023,1
+1009,luxury sport,mazarati,ghibli,2023,2
+1018,luxury sport,mercedes,gt,2023,83
+1021,luxury sport,mercedes,sl-class,2023,10
+1025,luxury sport,nissan,gtr,2023,1
+1030,luxury sport,porche,911,2023,11
+1035,luxury sport,porche,boxter,2023,5
+1040,luxury sport,porche,carrera,2023,9
+1045,luxury sport,porche,cayman,2023,9
+1050,luxury sport,porche,spyder,2023,2
+1053,luxury sport,tesla,null,2023,52
+1056,luxury suv-2,alfa romeo,tonale,2023,6
+1061,luxury suv-2,aston martin,dbx,2023,4
+1065,luxury suv-2,audi,q2,2023,61
+1070,luxury suv-2,audi,q3,2023,605
+1076,luxury suv-2,bmw,x1,2023,386
+1081,luxury suv-2,bmw,x2,2023,11
+1085,luxury suv-2,land rover,p300e,2023,4
+1087,luxury suv-2,mercedes,eqa,2023,9
+1092,luxury suv-2,mercedes,gla,2023,344
+1098,luxury suv-3,alfa romeo,stelvio,2023,37
+1101,luxury suv-3,audi,q4,2023,7
+1109,luxury suv-3,bmw,ix3,2023,41
+1114,luxury suv-3,bmw,x3,2023,321
+1118,luxury suv-3,bmw,x4,2023,148
+1123,luxury suv-3,jaguar,e-pace,2023,1
+1127,luxury suv-3,land rover,evoque,2023,217
+1130,luxury suv-3,mazarati,grecale,2023,29
+1134,luxury suv-3,mercedes,eqb,2023,12
+1138,luxury suv-3,mercedes,eqc,2023,14
+1140,luxury suv-3,mercedes,glb,2023,15
+1145,luxury suv-3,mercedes,glc,2023,1113
+1150,luxury suv-3,mercedes,glc-e,2023,40
+1156,luxury suv-3,porche,macan,2023,200
+1160,luxury suv-3,tesla,model-y,2023,36
+1164,luxury suv-4,audi,e-trons,2023,3
+1168,luxury suv-4,audi,q5,2023,9
+1175,luxury suv-4,bentli,bentayga,2023,16
+1179,luxury suv-4,bmw,ix,2023,21
+1181,luxury suv-4,bmw,ix1,2023,8
+1186,luxury suv-4,bmw,x5,2023,290
+1190,luxury suv-4,bmw,x6,2023,219
+1196,luxury suv-4,gmc,blazer,2023,1
+1200,luxury suv-4,gmc,envoy,2023,15
+1205,luxury suv-4,gmc,jimmy,2023,20
+1210,luxury suv-4,gmc,terrain,2023,48
+1215,luxury suv-4,jaguar,f-pace,2023,59
+1219,luxury suv-4,jaguar,i-pace,2023,2
+1223,luxury suv-4,land rover,defender,2023,18
+1229,luxury suv-4,land rover,p440e,2023,14
+1233,luxury suv-4,land rover,velar,2023,374
+1239,luxury suv-4,mazarati,levante,2023,16
+1242,luxury suv-4,mercedes,a-g63,2023,13
+1246,luxury suv-4,mercedes,glb,2023,1
+1249,luxury suv-4,mercedes,gle,2023,627
+1255,luxury suv-4,porche,cayenne,2023,132
+1258,luxury suv-4,tesla,model-x,2023,2
+1264,luxury suv-5,audi,q7,2023,319
+1269,luxury suv-5,audi,q8,2023,93
+1273,luxury suv-5,audi,rsq8,2023,1
+1277,luxury suv-5,bmw,x7,2023,94
+1281,luxury suv-5,cadillac ,escalade,2023,5
+1284,luxury suv-5,dodge,durango,2023,1
+1289,luxury suv-5,gmc,acadia,2023,33
+1292,luxury suv-5,gmc,hummer,2023,1
+1298,luxury suv-5,gmc,yukon,2023,1
+1302,luxury suv-5,lamborghini,urus,2023,16
+1305,luxury suv-5,land rover,p510e,2023,4
+1309,luxury suv-5,land rover,range-rover,2023,231
+1314,luxury suv-5,land rover,range-rover-,2023,4
+1318,luxury suv-5,land rover,vogue,2023,3
+1322,luxury suv-5,lexus,lx570,2023,2
+1324,luxury suv-5,lexus,lx600,2023,4
+1326,luxury suv-5,lexus,lxvip,2023,2
+1332,luxury suv-5,mercedes,eqs-suv,2023,24
+1337,luxury suv-5,mercedes,g-class,2023,14
+1341,luxury suv-5,mercedes,gls,2023,426
+1348,mpv-b,baic,changhe,2023,3
+1352,mpv-b,baic,m60,2023,1
+1359,mpv-b,changhe,m50s,2023,1
+1363,mpv-b,jac,j6,2023,1
+1366,mpv-b,kia,soul,2023,35
+1371,mpv-b,mitsubishi,xpander,2023,1058
+1377,mpv-b,suzuki,ertiga,2023,107
+1381,mpv-b,toyota,rumion,2023,3
+1386,mpv-b,volkswagen,suran,2023,1
+1389,mpv-c,ford,cmax,2023,1
+1396,mpv-c,kia,carens,2023,162
+1401,mpv-c,levc,tx-taxi,2023,81
+1404,mpv-c,swm,x2,2023,3
+1408,mpv-c,toyota,avanza,2023,5
+1410,mpv-c,toyota,veloz,2023,95
+1417,mpv-d,kia,carnival,2023,12
+1430,other,chevrolet,other,2023,23
+1435,other,daewoo,other,2023,20
+1441,other,ford,other,2023,2
+1443,other,geely,other,2023,2
+1447,other,gmc,other,2023,14
+1457,other,isuzu,other,2023,1
+1460,other,jac,other,2023,2
+1464,other,kia,other,2023,30
+1469,other,lada,other,2023,107
+1472,other,mercedes,other,2023,3
+1474,other,mg,other,2023,2
+1478,other,mitsubishi,other,2023,36
+1483,other,opel,other,2023,7
+1491,other,renault,other,2023,1
+1500,other,toyota,other,2023,5
+1504,other,volvo,other,2023,5
+1508,suv-b,aldamani,dmv300,2023,1
+1513,suv-b,baic,x3,2023,141
+1519,suv-b,byd,e2,2023,4
+1523,suv-b,byd,yuan,2023,8
+1527,suv-b,byd,yuan-plus,2023,33
+1532,suv-b,changan,cs15,2023,33
+1537,suv-b,changan,other,2023,2
+1541,suv-b,changhe,q35,2023,5
+1543,suv-b,chery,tiggo2-pro,2023,1
+1547,suv-b,chery,tiggo3,2023,3151
+1550,suv-b,chery,tiggo4-pro,2023,2
+1557,suv-b,chery,x30,2023,9
+1560,suv-b,chevrolet,4h5,2023,2
+1565,suv-b,chevrolet,groove,2023,5
+1569,suv-b,citroen,c3,2023,87
+1578,suv-b,dfsk,glory,2023,216
+1584,suv-b,ds,ds3,2023,4
+1589,suv-b,fiat,500-x,2023,25
+1594,suv-b,ford,ecosport,2023,73
+1598,suv-b,ford,escape,2023,10
+1602,suv-b,gac,aion-y,2023,2
+1604,suv-b,gac,emzoom,2023,21
+1607,suv-b,gac,gs3,2023,9
+1611,suv-b,geely,coolray,2023,333
+1617,suv-b,geely,geometry,2023,20
+1620,suv-b,geely,gx3,2023,427
+1625,suv-b,gwm,coolbear,2023,2
+1629,suv-b,gwm,florid,2023,1
+1630,suv-b,haval,h2,2023,2
+1631,suv-b,honda,ens1,2023,14
+1636,suv-b,honda,hr-v,2023,33
+1640,suv-b,hyundai,bayon,2023,185
+1645,suv-b,hyundai,creta,2023,238
+1650,suv-b,hyundai,kona,2023,4
+1653,suv-b,hyundai,veloster,2023,2
+1655,suv-b,hyundai,venue,2023,2
+1659,suv-b,jac,s2,2023,82
+1664,suv-b,jac,s3,2023,10
+1668,suv-b,jac,s4,2023,4
+1673,suv-b,jeep,renegade,2023,168
+1676,suv-b,kaiyi,x3,2023,6
+1681,suv-b,kia,ceed,2023,2
+1684,suv-b,kia,niro,2023,1
+1686,suv-b,kia,sonet,2023,18
+1691,suv-b,kia,xceed,2023,1250
+1696,suv-b,kyc,x3,2023,16
+1700,suv-b,mazda,cx3,2023,1
+1701,suv-b,mg,gs,2023,14
+1705,suv-b,mg,zs,2023,2166
+1710,suv-b,mitsubishi,asx,2023,1
+1718,suv-b,nissan,juke,2023,149
+1723,suv-b,nissan,kicks,2023,30
+1727,suv-b,opel,crossland,2023,285
+1731,suv-b,opel,mokka,2023,519
+1736,suv-b,peugeot,2008,2023,145
+1741,suv-b,renault,captur,2023,3
+1744,suv-b,renault,duster,2023,549
+1749,suv-b,seat,arona,2023,50
+1754,suv-b,soueast,dx3,2023,4
+1756,suv-b,suzuki,fronx,2023,34
+1760,suv-b,suzuki,jimny,2023,49
+1767,suv-b,toyota,c-hr,2023,136
+1769,suv-b,toyota,raize,2023,2
+1773,suv-b,volkswagen,cross-fox,2023,2
+1777,suv-b,volkswagen,t-roc,2023,440
+1780,suv-b,volkswagen,taigo,2023,1
+1789,suv-c,baic,x5,2023,1
+1794,suv-c,baic,x7,2023,37
+1799,suv-c,bestune,t55,2023,6
+1802,suv-c,bestune,t77,2023,32
+1809,suv-c,brilliance,v6,2023,33
+1812,suv-c,byd,ev500,2023,9
+1814,suv-c,byd,ev600,2023,3
+1819,suv-c,byd,s5,2023,4
+1824,suv-c,byd,song-plus,2023,49
+1827,suv-c,byd,tang,2023,9
+1835,suv-c,changan,cs35,2023,130
+1838,suv-c,changan,cs35-plus,2023,43
+1843,suv-c,changan,cs55,2023,70
+1846,suv-c,changan,cs55-plus,2023,59
+1851,suv-c,changan,uni-t,2023,7
+1856,suv-c,chery,chery,2023,10
+1864,suv-c,chery,tiggo4,2023,10
+1869,suv-c,chery,tiggo7,2023,3033
+1873,suv-c,chery,tiggo7-pro,2023,315
+1878,suv-c,chery,tiggo8,2023,480
+1882,suv-c,chery,tiggo8-pro,2023,231
+1887,suv-c,chevrolet,captiva,2023,568
+1892,suv-c,chevrolet,equinox,2023,34
+1897,suv-c,chevrolet,menlo,2023,6
+1901,suv-c,chevrolet,trax,2023,10
+1906,suv-c,citroen,c4,2023,298
+1909,suv-c,citroen,c4x,2023,443
+1914,suv-c,citroen,c5,2023,1149
+1918,suv-c,cubra,formentor,2023,255
+1922,suv-c,daihatsu,terrios,2023,1
+1925,suv-c,dfsk,eagle,2023,44
+1928,suv-c,dfsk,glory-ix5,2023,1
+1930,suv-c,dongfeng,ax7,2023,2
+1934,suv-c,dongfeng,other,2023,1
+1938,suv-c,dongfeng,venucia,2023,44
+1939,suv-c,ds,4as,2023,1
+1940,suv-c,ds,ds4,2023,103
+1945,suv-c,ds,ds7,2023,123
+1948,suv-c,exeed,90t,2023,1
+1951,suv-c,exeed,txl,2023,2
+1954,suv-c,ford,bronco,2023,3
+1958,suv-c,forthing,t5-evo,2023,174
+1960,suv-c,gac,emkoo,2023,9
+1964,suv-c,gac,gs4,2023,37
+1966,suv-c,gac,gs5,2023,1
+1967,suv-c,geely,azkarra,2023,3
+1975,suv-c,gwm,hover,2023,1
+1978,suv-c,haval,h3,2023,1
+1981,suv-c,haval,h6,2023,319
+1986,suv-c,haval,jolion,2023,105
+1989,suv-c,haval,m6,2023,4
+1993,suv-c,honda,cr-v,2023,344
+1996,suv-c,honda,e-np1,2023,77
+2000,suv-c,honda,mnv,2023,1
+2001,suv-c,honda,np-1,2023,8
+2002,suv-c,honda,nsi,2023,2
+2003,suv-c,honda,zr-v,2023,36
+2009,suv-c,hyundai,matrix,2023,1
+2012,suv-c,hyundai,tucson,2023,3233
+2017,suv-c,jac,rein,2023,2
+2021,suv-c,jac,s5,2023,3
+2022,suv-c,jac,s6,2023,1
+2026,suv-c,jac,s7,2023,1
+2029,suv-c,jeep,wrangler,2023,4
+2030,suv-c,jetour,dashing,2023,136
+2035,suv-c,jetour,x70,2023,560
+2038,suv-c,jetour,x70-plus,2023,95
+2043,suv-c,jetour,x95,2023,40
+2050,suv-c,kgm,torres,2023,240
+2054,suv-c,kia,ev6,2023,2
+2058,suv-c,kia,seltos,2023,197
+2063,suv-c,kia,sportage,2023,3770
+2068,suv-c,kyc,x5,2023,15
+2070,suv-c,leapmotor,c11,2023,2
+2073,suv-c,maxus,d60,2023,1
+2077,suv-c,mg,hs,2023,385
+2080,suv-c,mg,one,2023,6
+2085,suv-c,mg,rx5,2023,1599
+2091,suv-c,mitsubishi,eclipse,2023,900
+2099,suv-c,nissan,qashqai,2023,389
+2108,suv-c,opel,grandland,2023,515
+2113,suv-c,peugeot,3008,2023,648
+2116,suv-c,peugeot,408,2023,240
+2121,suv-c,peugeot,5008,2023,201
+2126,suv-c,rabdan,one,2023,4
+2128,suv-c,renault,arkana,2023,2
+2131,suv-c,renault,austral,2023,140
+2136,suv-c,renault,kadjar,2023,21
+2140,suv-c,seat,ateca,2023,331
+2145,suv-c,seat,tarraco,2023,363
+2151,suv-c,skoda,kamiq,2023,73
+2156,suv-c,skoda,karoq,2023,49
+2161,suv-c,skoda,kodiaq,2023,2683
+2164,suv-c,skoda,kushaq,2023,11
+2166,suv-c,soueast,dx5,2023,50
+2168,suv-c,soueast,dx7,2023,51
+2171,suv-c,soueast,dx7-prime,2023,15
+2172,suv-c,soueast,dx8,2023,3
+2173,suv-c,soueast,dx8s,2023,164
+2178,suv-c,ssangyong,korando,2023,1
+2183,suv-c,ssangyong,tivoli,2023,169
+2188,suv-c,ssangyong,xlv,2023,3
+2197,suv-c,subaru,xv,2023,844
+2201,suv-c,suzuki,grand-vitara,2023,314
+2204,suv-c,toyota,bz4x,2023,14
+2207,suv-c,toyota,corolla-cross,2023,3
+2211,suv-c,toyota,rav-4,2023,6
+2216,suv-c,toyota,rush,2023,384
+2219,suv-c,toyota,urban-cruise,2023,17
+2222,suv-c,vgv,u70-pro,2023,1
+2227,suv-c,volkswagen,id4,2023,522
+2230,suv-c,volkswagen,id5,2023,1
+2232,suv-c,volkswagen,taos,2023,2
+2237,suv-c,volkswagen,tiguan,2023,1994
+2240,suv-c,volvo,c40,2023,1
+2245,suv-c,volvo,xc40,2023,19
+2250,suv-c,volvo,xc60,2023,92
+2256,suv-c,zeekr,1,2023,3
+2258,suv-c,zeekr,x,2023,2
+2263,suv-c,zotye,z100,2023,1
+2269,suv-d,changan,uni-k,2023,1
+2272,suv-d,chevrolet,blazer,2023,7
+2277,suv-d,cubra,cubra,2023,9
+2286,suv-d,ford,territory,2023,1
+2291,suv-d,geely,okavango,2023,158
+2296,suv-d,hongqi,e-hs9,2023,3
+2303,suv-d,hyundai,santafe,2023,10
+2308,suv-d,jeep,compass,2023,42
+2312,suv-d,jeep,grand-cherokee,2023,224
+2318,suv-d,jetour,x90-plus,2023,173
+2321,suv-d,jetour,x95,2023,167
+2328,suv-d,kia,k22,2023,1
+2332,suv-d,kia,sorento,2023,247
+2335,suv-d,mg,rx8,2023,1
+2337,suv-d,mitsubishi,montero,2023,2
+2341,suv-d,mitsubishi,pajero,2023,68
+2348,suv-d,nissan,terra,2023,3
+2352,suv-d,toyota,4runner,2023,1
+2354,suv-d,toyota,fj-cruiser,2023,1
+2358,suv-d,toyota,fortuner,2023,1030
+2364,suv-d,toyota,prado,2023,27
+2368,suv-d,volkswagen,id6,2023,297
+2371,suv-d,volkswagen,teramont,2023,8
+2374,suv-d,volkswagen,tourag,2023,37
+2379,suv-d,volvo,v50,2023,1
+2386,suv-d,volvo,x270,2023,1
+2391,suv-d,volvo,xc90,2023,69
+2396,suv-e,chevrolet,gmc,2023,7
+2398,suv-e,chevrolet,suburban,2023,1
+2402,suv-e,infinity,qx80,2023,1
+2405,suv-e,nissan,patrol,2023,13
+2409,suv-e,toyota,gx-r,2023,1
+2413,suv-e,toyota,land-cruiser,2023,230
+6,car hb-a,changan,e-star,2024,4
+10,car hb-a,fiat,500,2024,4
+15,car hb-a,fiat,undefined,2024,1
+19,car hb-a,helmarv,panda,2024,1
+23,car hb-a,hyundai,atoz,2024,209
+27,car hb-a,hyundai,i10,2024,4
+30,car hb-a,jiangsu,huazi,2024,1
+33,car hb-a,kia,picanto,2024,151
+39,car hb-a,smart,fortwo,2024,5
+43,car hb-a,suzuki,alto,2024,2
+47,car hb-a,suzuki,celerio,2024,75
+52,car hb-a,suzuki,spresso,2024,208
+55,car hb-b,byd,seagull,2024,133
+60,car hb-b,dayun,yuehu,2024,58
+62,car hb-b,fiat,panda,2024,1
+64,car hb-b,haima,aishang,2024,1
+66,car hb-b,hyundai,grand-i10,2024,2
+70,car hb-b,hyundai,i20,2024,6
+75,car hb-b,jac,s1,2024,2
+76,car hb-b,levan,320,2024,9
+80,car hb-b,mitsubishi,spaceatar,2024,1
+84,car hb-b,opel,corsa,2024,142
+89,car hb-b,peugeot,208,2024,3
+93,car hb-b,renault,sandero,2024,42
+97,car hb-b,seat,ibiza,2024,738
+102,car hb-b,skoda,fabia,2024,2
+106,car hb-b,suzuki,baleno,2024,761
+111,car hb-b,suzuki,swift,2024,1414
+116,car hb-b,toyota,yaris,2024,64
+118,car hb-b,volkswagen,id3,2024,27
+120,car hb-b,wuling,bingo,2024,28
+124,car hb-c,byd,dolphin,2024,28
+129,car hb-c,chevrolet,other,2024,2
+130,car hb-c,cubra,leon,2024,9
+136,car hb-c,mg,4,2024,151
+141,car hb-c,mitsubishi,mirage,2024,80
+148,car hb-c,peugeot,308,2024,4
+152,car hb-c,seat,leon,2024,1010
+157,car hb-c,seat,leon-cubra,2024,1
+162,car hb-c,skoda,scala,2024,14
+167,car hb-c,volkswagen,golf,2024,139
+169,car hb-c,volkswagen,polo,2024,2
+171,car hb-c,volkswagen,scrocco,2024,1
+172,car-b,baic,u5-plus,2024,222
+177,car-b,changan,alsvin,2024,13
+188,car-b,chery,arizo5,2024,2575
+195,car-b,chevrolet,aveo,2024,5
+199,car-b,chevrolet,lacete,2024,5
+208,car-b,citroen,c-elysee,2024,118
+212,car-b,citroen,gs,2024,1
+219,car-b,dongfeng,aeolos,2024,66
+222,car-b,dongfeng,aeolus,2024,1
+224,car-b,dongfeng,e70-pro,2024,29
+226,car-b,dongfeng,joyear,2024,4
+230,car-b,geely,emegrand-7,2024,6
+235,car-b,gwm,c30,2024,3
+239,car-b,gwm,other,2024,2
+244,car-b,honda,city,2024,38
+250,car-b,hyundai,accent-rb,2024,3892
+255,car-b,hyundai,excel,2024,3
+264,car-b,hyundai,verna,2024,1
+270,car-b,jac,j3,2024,33
+275,car-b,jac,j4,2024,63
+280,car-b,jac,j5,2024,2
+284,car-b,kia,pegas,2024,15
+289,car-b,kia,rio,2024,39
+294,car-b,lada,granta,2024,11
+303,car-b,mg,5,2024,2079
+308,car-b,mitsubishi,attrage,2024,195
+314,car-b,nissan,sunny,2024,6699
+321,car-b,peugeot,301,2024,21
+329,car-b,proton,saga,2024,223
+334,car-b,renault,logan,2024,6
+338,car-b,renault,symbol,2024,8
+340,car-b,renault,taliant,2024,772
+348,car-b,suzuki,ciaz,2024,600
+353,car-b,suzuki,swift-dzire,2024,467
+358,car-b,toyota,belta,2024,10
+364,car-c,bestune,b70,2024,19
+368,car-c,bestune,bestune,2024,1
+371,car-c,brilliance,h530,2024,24
+375,car-c,byd,f3,2024,4070
+381,car-c,byd,l3,2024,3
+382,car-c,byd,qin-plus,2024,43
+387,car-c,changan,eado,2024,8
+389,car-c,changan,eado-plus,2024,1
+390,car-c,changan,uni-v,2024,1
+391,car-c,chery,arizo6,2024,2
+392,car-c,chery,arizo8,2024,1
+401,car-c,chevrolet,optra,2024,44
+415,car-c,fiat,tipo,2024,1113
+420,car-c,ford,focus,2024,263
+423,car-c,gac,empow,2024,205
+428,car-c,honda,civic,2024,171
+433,car-c,hyundai,elantra,2024,259
+437,car-c,hyundai,elantra-ad,2024,4021
+442,car-c,hyundai,elantra-cn7,2024,642
+447,car-c,hyundai,elantra-hd,2024,53
+451,car-c,hyundai,ioniq,2024,15
+452,car-c,hyundai,ioniq6,2024,9
+462,car-c,jac,j7,2024,47
+464,car-c,jmc,gse,2024,2
+468,car-c,kia,cerato,2024,723
+473,car-c,kia,k3,2024,729
+475,car-c,kia,sephia,2024,1
+476,car-c,levan,620,2024,2
+480,car-c,mazda,mazda-3,2024,7
+485,car-c,mg,6,2024,337
+489,car-c,mg,gt,2024,92
+494,car-c,mg,other,2024,6
+498,car-c,mitsubishi,lancer,2024,4
+504,car-c,nissan,plt11,2024,1
+508,car-c,nissan,sentra,2024,2224
+519,car-c,opel,astra,2024,1
+527,car-c,renault,megane,2024,683
+533,car-c,skoda,octavia,2024,1909
+536,car-c,soueast,a5,2024,2
+540,car-c,subaru,impreza,2024,3
+542,car-c,toyota,aurion,2024,4
+543,car-c,toyota,bz3,2024,9
+547,car-c,toyota,corolla,2024,5992
+552,car-c,volkswagen,eos,2024,1
+556,car-c,volkswagen,jetta,2024,27
+559,car-d,byd,han,2024,15
+561,car-d,changan,sl03,2024,8
+565,car-d,chevrolet,camaro,2024,8
+568,car-d,chevrolet,caprice,2024,1
+571,car-d,chevrolet,d-lux,2024,1
+577,car-d,chevrolet,malibu,2024,166
+581,car-d,chevrolet,nova,2024,1
+588,car-d,ford,fusion,2024,1
+589,car-d,geely,e8,2024,1
+593,car-d,honda,accord,2024,273
+598,car-d,hyundai,genesis,2024,1
+600,car-d,hyundai,grandeur,2024,7
+604,car-d,hyundai,sonata,2024,23
+607,car-d,kia,cadenza,2024,1
+611,car-d,kia,k5,2024,36
+613,car-d,kia,k8,2024,1
+616,car-d,kia,optima,2024,1
+617,car-d,mg,7,2024,55
+628,car-d,peugeot,508,2024,124
+632,car-d,polestar,2,2024,1
+637,car-d,skoda,superb,2024,264
+640,car-d,toyota,camry,2024,1
+645,car-d,toyota,crown,2024,1
+649,car-d,volkswagen,id7,2024,15
+656,car-d,volkswagen,passat,2024,54
+661,car-d,zeekr,7,2024,3
+670,luxury car-2,audi,a3,2024,167
+675,luxury car-2,audi,tt,2024,3
+679,luxury car-2,bmw,2-series,2024,49
+695,luxury car-2,mercedes,500,2024,9
+702,luxury car-2,mercedes,600,2024,6
+706,luxury car-2,mercedes,cd415,2024,3
+710,luxury car-2,mercedes,i200,2024,1
+714,luxury car-3,alfa romeo,giulia,2024,40
+719,luxury car-3,audi,a4,2024,103
+722,luxury car-3,audi,rs3,2024,1
+723,luxury car-3,bmw,1335l,2024,1
+727,luxury car-3,bmw,3-series,2024,858
+730,luxury car-3,bmw,3-series-e,2024,1
+734,luxury car-3,bmw,4-series,2024,105
+739,luxury car-3,bmw,i3,2024,187
+742,luxury car-3,bmw,i4,2024,15
+747,luxury car-3,bmw,m3,2024,23
+751,luxury car-3,bmw,m4,2024,11
+759,luxury car-3,mercedes,c-class,2024,3530
+764,luxury car-3,mercedes,cla,2024,651
+769,luxury car-3,mercedes,clk,2024,1
+773,luxury car-3,tesla,model-3,2024,46
+775,luxury car-3,xiaomi,su7,2024,2
+776,luxury car-3,xpeng,p7,2024,24
+781,luxury car-4,audi,a5,2024,231
+786,luxury car-4,audi,a6,2024,18
+789,luxury car-4,avatr,12,2024,28
+794,luxury car-4,bmw,5-series,2024,404
+798,luxury car-4,bmw,i5,2024,18
+802,luxury car-4,bmw,m5,2024,1
+806,luxury car-4,mercedes,a,2024,7
+809,luxury car-4,mercedes,a-c43,2024,1
+811,luxury car-4,mercedes,a-gt43,2024,2
+812,luxury car-4,mercedes,cle,2024,127
+817,luxury car-4,mercedes,e-class,2024,1201
+822,luxury car-4,mercedes,e-class-e,2024,84
+826,luxury car-4,mercedes,eqe,2024,329
+831,luxury car-4,porche,panamera,2024,7
+836,luxury car-4,porche,taycan,2024,19
+840,luxury car-4,tesla,model-s,2024,3
+842,luxury car-5,audi,a8,2024,1
+844,luxury car-5,audi,rs8,2024,1
+848,luxury car-5,bentli,continental,2024,4
+852,luxury car-5,bentli,flying-spur,2024,5
+856,luxury car-5,bmw,7-series,2024,53
+859,luxury car-5,bmw,i7,2024,21
+862,luxury car-5,bmw,m7-e,2024,1
+865,luxury car-5,bmw,m8,2024,2
+866,luxury car-5,genesis,g80,2024,1
+867,luxury car-5,hongqi,ousado,2024,1
+872,luxury car-5,mercedes,cls,2024,8
+875,luxury car-5,mercedes,eqs,2024,71
+880,luxury car-5,mercedes,s-class,2024,119
+885,luxury car-5,rolls royce,cullinan,2024,7
+887,luxury car-5,rolls royce,ghost,2024,2
+890,luxury car-5,rolls royce,phantom,2024,1
+891,luxury car-5,rolls royce,spectre,2024,3
+895,luxury hb,audi,a1,2024,1
+899,luxury hb,bmw,1-series,2024,11
+906,luxury hb,mercedes,a-class,2024,189
+911,luxury hb,mercedes,a-class-e,2024,5
+915,luxury hb,mercedes,b-class,2024,25
+919,luxury hb,mini coper,clubman,2024,2
+920,luxury hb,mini coper,continental,2024,1
+924,luxury hb,mini coper,coper,2024,75
+929,luxury hb,mini coper,countryman,2024,88
+933,luxury hb,mini coper,oxford,2024,1
+937,luxury hb,mini coper,s,2024,30
+942,luxury sport,aston martin,db12,2024,2
+948,luxury sport,audi,rs5,2024,1
+952,luxury sport,bentli,bentli,2024,12
+957,luxury sport,bentli,v8,2024,1
+967,luxury sport,bmw,z-series,2024,13
+970,luxury sport,byd,seal,2024,11
+972,luxury sport,ferari,296gtb,2024,3
+977,luxury sport,ferari,f8,2024,3
+979,luxury sport,ferari,gts812,2024,3
+983,luxury sport,ferari,portofino,2024,3
+987,luxury sport,ferari,roma,2024,2
+991,luxury sport,ford,mustang,2024,6
+995,luxury sport,jaguar,f-type,2024,7
+997,luxury sport,lamborghini,huracan,2024,7
+1001,luxury sport,lotus,eletre-r,2024,3
+1002,luxury sport,lotus,emira,2024,8
+1006,luxury sport,maclaren,artura,2024,1
+1010,luxury sport,mazarati,ghibli,2024,1
+1014,luxury sport,mazarati,quatro,2024,1
+1019,luxury sport,mercedes,gt,2024,95
+1022,luxury sport,mercedes,sl-class,2024,16
+1024,luxury sport,mg,cyberster,2024,2
+1026,luxury sport,nissan,gtr,2024,1
+1031,luxury sport,porche,911,2024,16
+1036,luxury sport,porche,boxter,2024,27
+1041,luxury sport,porche,carrera,2024,19
+1046,luxury sport,porche,cayman,2024,10
+1048,luxury sport,porche,porche,2024,1
+1054,luxury sport,tesla,null,2024,21
+1057,luxury suv-2,alfa romeo,tonale,2024,183
+1062,luxury suv-2,aston martin,dbx,2024,1
+1066,luxury suv-2,audi,q2,2024,92
+1071,luxury suv-2,audi,q3,2024,1011
+1073,luxury suv-2,bmw,ix2,2024,3
+1077,luxury suv-2,bmw,x1,2024,572
+1082,luxury suv-2,bmw,x2,2024,76
+1086,luxury suv-2,land rover,p300e,2024,2
+1088,luxury suv-2,mercedes,eqa,2024,304
+1093,luxury suv-2,mercedes,gla,2024,493
+1099,luxury suv-3,alfa romeo,stelvio,2024,56
+1102,luxury suv-3,audi,q4,2024,84
+1104,luxury suv-3,audi,q4e-tron,2024,2
+1105,luxury suv-3,avatr,11,2024,8
+1110,luxury suv-3,bmw,ix3,2024,308
+1115,luxury suv-3,bmw,x3,2024,359
+1119,luxury suv-3,bmw,x4,2024,267
+1124,luxury suv-3,jaguar,e-pace,2024,1
+1128,luxury suv-3,land rover,evoque,2024,136
+1131,luxury suv-3,mazarati,grecale,2024,39
+1135,luxury suv-3,mercedes,eqb,2024,163
+1139,luxury suv-3,mercedes,eqc,2024,13
+1141,luxury suv-3,mercedes,glb,2024,50
+1146,luxury suv-3,mercedes,glc,2024,1674
+1151,luxury suv-3,mercedes,glc-e,2024,42
+1153,luxury suv-3,nio,el6,2024,1
+1157,luxury suv-3,porche,macan,2024,214
+1161,luxury suv-3,tesla,model-y,2024,62
+1165,luxury suv-4,audi,e-trons,2024,5
+1169,luxury suv-4,audi,q5,2024,25
+1171,luxury suv-4,audi,q5e-tron,2024,5
+1176,luxury suv-4,bentli,bentayga,2024,12
+1180,luxury suv-4,bmw,ix,2024,33
+1182,luxury suv-4,bmw,ix1,2024,35
+1187,luxury suv-4,bmw,x5,2024,380
+1191,luxury suv-4,bmw,x6,2024,395
+1193,luxury suv-4,cadillac ,lyric,2024,5
+1195,luxury suv-4,genesis,gv60,2024,7
+1197,luxury suv-4,gmc,blazer,2024,2
+1201,luxury suv-4,gmc,envoy,2024,16
+1206,luxury suv-4,gmc,jimmy,2024,58
+1211,luxury suv-4,gmc,terrain,2024,63
+1216,luxury suv-4,jaguar,f-pace,2024,37
+1220,luxury suv-4,jaguar,i-pace,2024,2
+1224,luxury suv-4,land rover,defender,2024,16
+1227,luxury suv-4,land rover,discovery,2024,5
+1230,luxury suv-4,land rover,p440e,2024,14
+1234,luxury suv-4,land rover,velar,2024,367
+1240,luxury suv-4,mazarati,levante,2024,6
+1243,luxury suv-4,mercedes,a-g63,2024,51
+1245,luxury suv-4,mercedes,eqe-suv,2024,107
+1250,luxury suv-4,mercedes,gle,2024,653
+1256,luxury suv-4,porche,cayenne,2024,225
+1259,luxury suv-4,tesla,model-x,2024,7
+1260,luxury suv-4,xpeng,g9,2024,91
+1265,luxury suv-5,audi,q7,2024,178
+1270,luxury suv-5,audi,q8,2024,109
+1272,luxury suv-5,audi,q8-e-tron,2024,3
+1274,luxury suv-5,audi,rsq8,2024,6
+1278,luxury suv-5,bmw,x7,2024,85
+1282,luxury suv-5,cadillac ,escalade,2024,9
+1285,luxury suv-5,dodge,durango,2024,1
+1286,luxury suv-5,genesis,gv70,2024,18
+1290,luxury suv-5,gmc,acadia,2024,57
+1293,luxury suv-5,gmc,hummer,2024,24
+1295,luxury suv-5,gmc,pocon,2024,3
+1299,luxury suv-5,gmc,yukon,2024,9
+1303,luxury suv-5,lamborghini,urus,2024,10
+1306,luxury suv-5,land rover,p510e,2024,2
+1310,luxury suv-5,land rover,range-rover,2024,262
+1315,luxury suv-5,land rover,range-rover-,2024,20
+1319,luxury suv-5,lexus,gx460,2024,1
+1323,luxury suv-5,lexus,lx570,2024,11
+1325,luxury suv-5,lexus,lx600,2024,6
+1327,luxury suv-5,lexus,lxvip,2024,5
+1328,luxury suv-5,lincoln ,aviator,2024,1
+1333,luxury suv-5,mercedes,eqs-suv,2024,38
+1338,luxury suv-5,mercedes,g-class,2024,17
+1342,luxury suv-5,mercedes,gls,2024,310
+1344,luxury suv-5,mg,im-ls7,2024,20
+1346,luxury suv-5,nio,el8,2024,1
+1349,mpv-b,baic,changhe,2024,1
+1353,mpv-b,baic,m60,2024,2
+1367,mpv-b,kia,soul,2024,28
+1372,mpv-b,mitsubishi,xpander,2024,2333
+1374,mpv-b,skoda,yeti,2024,2
+1378,mpv-b,suzuki,ertiga,2024,325
+1382,mpv-b,toyota,rumion,2024,1
+1387,mpv-c,dongfeng,joyear,2024,2
+1390,mpv-c,forthing,m4,2024,3
+1393,mpv-c,keyton,ex80,2024,1
+1397,mpv-c,kia,carens,2024,288
+1405,mpv-c,swm,x2,2024,1
+1409,mpv-c,toyota,avanza,2024,4
+1411,mpv-c,toyota,veloz,2024,131
+1413,mpv-c,toyota,veloz-cross,2024,1
+1414,mpv-d,dayun,yuanzhi-m1,2024,4
+1418,mpv-d,kia,carnival,2024,115
+1420,mpv-d,zeekr,9,2024,1
+1426,other,changan,other,2024,1
+1431,other,chevrolet,other,2024,19
+1436,other,daewoo,other,2024,14
+1444,other,geely,other,2024,1
+1448,other,gmc,other,2024,18
+1453,other,hyundai,other,2024,21
+1465,other,kia,other,2024,79
+1470,other,lada,other,2024,7
+1475,other,mg,other,2024,2
+1479,other,mitsubishi,other,2024,32
+1484,other,opel,other,2024,5
+1492,other,renault,other,2024,3
+1501,other,toyota,other,2024,7
+1505,other,volvo,other,2024,4
+1506,suv-a,hyundai,casper,2024,1
+1507,suv-a,wuling,yep,2024,6
+1514,suv-b,baic,x3,2024,31
+1517,suv-b,brilliance,v6,2024,42
+1520,suv-b,byd,e2,2024,6
+1524,suv-b,byd,yuan,2024,18
+1528,suv-b,byd,yuan-plus,2024,92
+1533,suv-b,changan,cs15,2024,1
+1538,suv-b,changan,other,2024,1
+1542,suv-b,chery,eq3,2024,2
+1544,suv-b,chery,tiggo2-pro,2024,20
+1548,suv-b,chery,tiggo3,2024,1161
+1551,suv-b,chery,tiggo4-pro,2024,1960
+1553,suv-b,chery,tiggo5,2024,4
+1558,suv-b,chery,x30,2024,7
+1566,suv-b,chevrolet,groove,2024,21
+1570,suv-b,citroen,c3,2024,38
+1573,suv-b,citroen,c3-aircross,2024,1
+1579,suv-b,dfsk,glory,2024,20
+1581,suv-b,dongfeng,ex1,2024,1
+1585,suv-b,ds,ds3,2024,1
+1586,suv-b,faw,x40,2024,1
+1590,suv-b,fiat,500-x,2024,43
+1595,suv-b,ford,ecosport,2024,5
+1599,suv-b,ford,escape,2024,10
+1605,suv-b,gac,emzoom,2024,266
+1608,suv-b,gac,gs3,2024,9
+1612,suv-b,geely,coolray,2024,924
+1615,suv-b,geely,ex3,2024,1
+1618,suv-b,geely,geometry,2024,20
+1621,suv-b,geely,gx3,2024,1924
+1626,suv-b,gwm,coolbear,2024,1
+1632,suv-b,honda,ens1,2024,35
+1637,suv-b,honda,hr-v,2024,85
+1641,suv-b,hyundai,bayon,2024,9
+1646,suv-b,hyundai,creta,2024,412
+1651,suv-b,hyundai,kona,2024,7
+1654,suv-b,hyundai,veloster,2024,1
+1656,suv-b,hyundai,venue,2024,3
+1660,suv-b,jac,s2,2024,536
+1665,suv-b,jac,s3,2024,10
+1669,suv-b,jac,s4,2024,4
+1674,suv-b,jeep,renegade,2024,20
+1677,suv-b,kaiyi,x3,2024,7
+1682,suv-b,kia,ceed,2024,1
+1685,suv-b,kia,niro,2024,1
+1687,suv-b,kia,sonet,2024,100
+1692,suv-b,kia,xceed,2024,1126
+1697,suv-b,kyc,x3,2024,4
+1702,suv-b,mg,gs,2024,19
+1706,suv-b,mg,zs,2024,4833
+1711,suv-b,mitsubishi,asx,2024,2
+1714,suv-b,mitsubishi,rvr,2024,2
+1715,suv-b,mitsubishi,x-force,2024,1
+1719,suv-b,nissan,juke,2024,228
+1724,suv-b,nissan,kicks,2024,24
+1728,suv-b,opel,crossland,2024,170
+1732,suv-b,opel,mokka,2024,479
+1737,suv-b,peugeot,2008,2024,441
+1745,suv-b,renault,duster,2024,326
+1750,suv-b,seat,arona,2024,209
+1755,suv-b,soueast,dx3,2024,1
+1757,suv-b,suzuki,fronx,2024,131
+1761,suv-b,suzuki,jimny,2024,31
+1768,suv-b,toyota,c-hr,2024,14
+1770,suv-b,toyota,raize,2024,15
+1774,suv-b,volkswagen,cross-fox,2024,4
+1778,suv-b,volkswagen,t-roc,2024,540
+1781,suv-b,volkswagen,taigo,2024,1
+1782,suv-b,volkswagen,undefined,2024,1
+1786,suv-c,baic,x35,2024,3
+1790,suv-c,baic,x55,2024,379
+1795,suv-c,baic,x7,2024,252
+1797,suv-c,bestune,b70s,2024,26
+1800,suv-c,bestune,t55,2024,73
+1803,suv-c,bestune,t77,2024,40
+1810,suv-c,brilliance,v6,2024,1
+1815,suv-c,byd,ev600,2024,11
+1820,suv-c,byd,s5,2024,1
+1822,suv-c,byd,song-l,2024,230
+1825,suv-c,byd,song-plus,2024,272
+1828,suv-c,byd,tang,2024,45
+1832,suv-c,byd,yuan-pro,2024,10
+1836,suv-c,changan,cs35,2024,34
+1839,suv-c,changan,cs35-plus,2024,204
+1844,suv-c,changan,cs55,2024,23
+1847,suv-c,changan,cs55-plus,2024,387
+1850,suv-c,changan,uni-s,2024,1
+1852,suv-c,changan,uni-t,2024,166
+1857,suv-c,chery,chery,2024,1
+1858,suv-c,chery,eq7,2024,21
+1860,suv-c,chery,omda-e5,2024,1
+1861,suv-c,chery,omoda-5,2024,2
+1865,suv-c,chery,tiggo4,2024,349
+1870,suv-c,chery,tiggo7,2024,3519
+1874,suv-c,chery,tiggo7-pro,2024,618
+1879,suv-c,chery,tiggo8,2024,2561
+1883,suv-c,chery,tiggo8-pro,2024,609
+1888,suv-c,chevrolet,captiva,2024,1125
+1893,suv-c,chevrolet,equinox,2024,28
+1895,suv-c,chevrolet,melno,2024,1
+1898,suv-c,chevrolet,menlo,2024,4
+1902,suv-c,chevrolet,trax,2024,3
+1907,suv-c,citroen,c4,2024,103
+1910,suv-c,citroen,c4x,2024,860
+1915,suv-c,citroen,c5,2024,763
+1919,suv-c,cubra,formentor,2024,474
+1926,suv-c,dfsk,eagle,2024,13
+1929,suv-c,dfsk,glory-ix5,2024,3
+1931,suv-c,dongfeng,ax7,2024,6
+1935,suv-c,dongfeng,other,2024,4
+1936,suv-c,dongfeng,sx5,2024,1
+1941,suv-c,ds,ds4,2024,128
+1946,suv-c,ds,ds7,2024,185
+1949,suv-c,exeed,90t,2024,1
+1950,suv-c,exeed,lx,2024,1
+1952,suv-c,exeed,txl,2024,5
+1955,suv-c,ford,bronco,2024,12
+1959,suv-c,forthing,t5-evo,2024,7
+1961,suv-c,gac,emkoo,2024,144
+1965,suv-c,gac,gs4,2024,39
+1968,suv-c,geely,azkarra,2024,9
+1969,suv-c,geely,starray,2024,159
+1982,suv-c,haval,h6,2024,391
+1987,suv-c,haval,jolion,2024,239
+1994,suv-c,honda,cr-v,2024,301
+1997,suv-c,honda,e-np1,2024,70
+2004,suv-c,honda,zr-v,2024,263
+2006,suv-c,hongqi,hs3,2024,1
+2013,suv-c,hyundai,tucson,2024,5190
+2018,suv-c,jac,rein,2024,3
+2023,suv-c,jac,s6,2024,1
+2031,suv-c,jetour,dashing,2024,985
+2036,suv-c,jetour,x70,2024,495
+2039,suv-c,jetour,x70-plus,2024,1311
+2044,suv-c,jetour,x95,2024,5
+2046,suv-c,jidu,jiyue,2024,1
+2048,suv-c,kgm,tivoli,2024,62
+2051,suv-c,kgm,torres,2024,1696
+2055,suv-c,kia,ev6,2024,2
+2059,suv-c,kia,seltos,2024,341
+2064,suv-c,kia,sportage,2024,6189
+2066,suv-c,komodo,g-l-x,2024,1
+2069,suv-c,kyc,x5,2024,34
+2071,suv-c,leapmotor,c11,2024,1
+2072,suv-c,leapmotor,leapmotor,2024,3
+2074,suv-c,mazda,cx3,2024,1
+2078,suv-c,mg,hs,2024,637
+2081,suv-c,mg,one,2024,489
+2086,suv-c,mg,rx5,2024,2770
+2088,suv-c,mitsubishi,airtrek,2024,3
+2092,suv-c,mitsubishi,eclipse,2024,2977
+2094,suv-c,mitsubishi,outlander,2024,255
+2100,suv-c,nissan,qashqai,2024,843
+2104,suv-c,nissan,x-trail,2024,181
+2109,suv-c,opel,grandland,2024,788
+2114,suv-c,peugeot,3008,2024,1191
+2117,suv-c,peugeot,408,2024,1051
+2122,suv-c,peugeot,5008,2024,285
+2127,suv-c,rabdan,one,2024,2
+2129,suv-c,renault,arkana,2024,1
+2132,suv-c,renault,austral,2024,974
+2137,suv-c,renault,kadjar,2024,3
+2141,suv-c,seat,ateca,2024,751
+2146,suv-c,seat,tarraco,2024,343
+2148,suv-c,shenlan,s7,2024,7
+2152,suv-c,skoda,kamiq,2024,71
+2157,suv-c,skoda,karoq,2024,39
+2162,suv-c,skoda,kodiaq,2024,3632
+2165,suv-c,skoda,kushaq,2024,14
+2167,suv-c,soueast,dx5,2024,1
+2169,suv-c,soueast,dx7,2024,6
+2174,suv-c,soueast,dx8s,2024,76
+2179,suv-c,ssangyong,korando,2024,8
+2184,suv-c,ssangyong,tivoli,2024,8
+2185,suv-c,ssangyong,torres,2024,114
+2189,suv-c,ssangyong,xlv,2024,9
+2190,suv-c,subaru,crosstrek,2024,101
+2192,suv-c,subaru,forester,2024,22
+2198,suv-c,subaru,xv,2024,26
+2202,suv-c,suzuki,grand-vitara,2024,176
+2205,suv-c,toyota,bz4x,2024,24
+2208,suv-c,toyota,corolla-cross,2024,3
+2212,suv-c,toyota,rav-4,2024,9
+2217,suv-c,toyota,rush,2024,333
+2220,suv-c,toyota,urban-cruise,2024,170
+2223,suv-c,vgv,u70-pro,2024,86
+2228,suv-c,volkswagen,id4,2024,747
+2233,suv-c,volkswagen,taos,2024,10
+2238,suv-c,volkswagen,tiguan,2024,2953
+2241,suv-c,volvo,c40,2024,17
+2246,suv-c,volvo,xc40,2024,88
+2251,suv-c,volvo,xc60,2024,107
+2254,suv-c,xpeng,g3,2024,2
+2257,suv-c,zeekr,1,2024,12
+2259,suv-c,zeekr,x,2024,5
+2260,suv-c,zotye,t300,2024,5
+2265,suv-d,baic,bj30e,2024,12
+2267,suv-d,changan,cs75,2024,1
+2268,suv-d,changan,cs95,2024,1
+2270,suv-d,changan,uni-k,2024,2
+2273,suv-d,chevrolet,blazer,2024,3
+2278,suv-d,cubra,cubra,2024,5
+2279,suv-d,dongfeng,huge,2024,75
+2281,suv-d,exeed,rx,2024,16
+2283,suv-d,exeed,vx,2024,3
+2284,suv-d,ford,edge,2024,1
+2287,suv-d,ford,territory,2024,2
+2289,suv-d,geely,monjaro,2024,1
+2292,suv-d,geely,okavango,2024,198
+2294,suv-d,honda,pilot,2024,1
+2295,suv-d,honda,zr-v,2024,50
+2297,suv-d,hongqi,e-hs9,2024,1
+2298,suv-d,hongqi,ehs9,2024,1
+2299,suv-d,hongqi,hongqi,2024,2
+2304,suv-d,hyundai,santafe,2024,64
+2309,suv-d,jeep,compass,2024,17
+2313,suv-d,jeep,grand-cherokee,2024,114
+2315,suv-d,jeep,other,2024,1
+2316,suv-d,jetour,t2,2024,297
+2319,suv-d,jetour,x90-plus,2024,927
+2322,suv-d,jetour,x95,2024,40
+2323,suv-d,kia,ev5,2024,67
+2325,suv-d,kia,ev9,2024,2
+2329,suv-d,kia,k22,2024,1
+2333,suv-d,kia,sorento,2024,741
+2336,suv-d,mg,rx8,2024,5
+2338,suv-d,mitsubishi,montero,2024,4
+2342,suv-d,mitsubishi,pajero,2024,41
+2344,suv-d,nissan,rogue,2024,8
+2349,suv-d,nissan,terra,2024,1
+2355,suv-d,toyota,fj-cruiser,2024,5
+2359,suv-d,toyota,fortuner,2024,736
+2361,suv-d,toyota,highlander,2024,1
+2365,suv-d,toyota,prado,2024,72
+2369,suv-d,volkswagen,id6,2024,406
+2372,suv-d,volkswagen,teramont,2024,20
+2375,suv-d,volkswagen,tourag,2024,84
+2380,suv-d,volvo,v50,2024,1
+2392,suv-d,volvo,xc90,2024,104
+2397,suv-e,chevrolet,gmc,2024,10
+2401,suv-e,hyundai,palisade,2024,1
+2403,suv-e,nissan,armada,2024,1
+2406,suv-e,nissan,patrol,2024,40
+2408,suv-e,rivian,r1s,2024,1
+2410,suv-e,toyota,gx-r,2024,1
+2414,suv-e,toyota,land-cruiser,2024,254
+2416,undefined,suzuki,undefined,2024,1
+11,car hb-a,fiat,500,2025,1
+24,car hb-a,hyundai,atoz,2025,35
+28,car hb-a,hyundai,i10,2025,1
+34,car hb-a,kia,picanto,2025,2
+48,car hb-a,suzuki,celerio,2025,2
+53,car hb-a,suzuki,spresso,2025,14
+56,car hb-b,byd,seagull,2025,5
+61,car hb-b,dayun,yuehu,2025,2
+85,car hb-b,opel,corsa,2025,7
+98,car hb-b,seat,ibiza,2025,97
+107,car hb-b,suzuki,baleno,2025,45
+112,car hb-b,suzuki,swift,2025,55
+119,car hb-b,volkswagen,id3,2025,1
+125,car hb-c,byd,dolphin,2025,2
+137,car hb-c,mg,4,2025,11
+142,car hb-c,mitsubishi,mirage,2025,6
+153,car hb-c,seat,leon,2025,86
+158,car hb-c,seat,leon-cubra,2025,1
+168,car hb-c,volkswagen,golf,2025,15
+173,car-b,baic,u5-plus,2025,44
+189,car-b,chery,arizo5,2025,342
+200,car-b,chevrolet,lacete,2025,1
+225,car-b,dongfeng,e70-pro,2025,1
+240,car-b,gwm,other,2025,1
+245,car-b,honda,city,2025,2
+251,car-b,hyundai,accent-rb,2025,290
+271,car-b,jac,j3,2025,1
+276,car-b,jac,j4,2025,3
+285,car-b,kia,pegas,2025,1
+304,car-b,mg,5,2025,234
+309,car-b,mitsubishi,attrage,2025,9
+315,car-b,nissan,sunny,2025,1348
+322,car-b,peugeot,301,2025,1
+330,car-b,proton,saga,2025,51
+341,car-b,renault,taliant,2025,92
+349,car-b,suzuki,ciaz,2025,26
+354,car-b,suzuki,swift-dzire,2025,2
+359,car-b,toyota,belta,2025,2
+376,car-c,byd,f3,2025,245
+383,car-c,byd,qin-plus,2025,1
+388,car-c,changan,eado,2025,1
+402,car-c,chevrolet,optra,2025,4
+411,car-c,dongfeng,a30,2025,1
+416,car-c,fiat,tipo,2025,360
+421,car-c,ford,focus,2025,2
+424,car-c,gac,empow,2025,24
+429,car-c,honda,civic,2025,2
+438,car-c,hyundai,elantra-ad,2025,641
+443,car-c,hyundai,elantra-cn7,2025,12
+448,car-c,hyundai,elantra-hd,2025,5
+453,car-c,hyundai,ioniq6,2025,1
+469,car-c,kia,cerato,2025,21
+474,car-c,kia,k3,2025,40
+481,car-c,mazda,mazda-3,2025,1
+486,car-c,mg,6,2025,29
+490,car-c,mg,gt,2025,1
+509,car-c,nissan,sentra,2025,175
+528,car-c,renault,megane,2025,27
+534,car-c,skoda,octavia,2025,145
+548,car-c,toyota,corolla,2025,373
+557,car-c,volkswagen,jetta,2025,1
+560,car-d,byd,han,2025,3
+566,car-d,chevrolet,camaro,2025,1
+578,car-d,chevrolet,malibu,2025,5
+594,car-d,honda,accord,2025,7
+605,car-d,hyundai,sonata,2025,2
+618,car-d,mg,7,2025,127
+629,car-d,peugeot,508,2025,2
+638,car-d,skoda,superb,2025,6
+641,car-d,toyota,camry,2025,1
+650,car-d,volkswagen,id7,2025,3
+662,car-d,zeekr,7,2025,3
+671,luxury car-2,audi,a3,2025,61
+680,luxury car-2,bmw,2-series,2025,2
+715,luxury car-3,alfa romeo,giulia,2025,6
+720,luxury car-3,audi,a4,2025,1
+728,luxury car-3,bmw,3-series,2025,80
+735,luxury car-3,bmw,4-series,2025,1
+740,luxury car-3,bmw,i3,2025,8
+743,luxury car-3,bmw,i4,2025,1
+748,luxury car-3,bmw,m3,2025,2
+752,luxury car-3,bmw,m4,2025,1
+760,luxury car-3,mercedes,c-class,2025,248
+765,luxury car-3,mercedes,cla,2025,23
+774,luxury car-3,tesla,model-3,2025,3
+777,luxury car-3,xpeng,p7,2025,6
+782,luxury car-4,audi,a5,2025,9
+787,luxury car-4,audi,a6,2025,7
+790,luxury car-4,avatr,12,2025,8
+795,luxury car-4,bmw,5-series,2025,38
+799,luxury car-4,bmw,i5,2025,3
+807,luxury car-4,mercedes,a,2025,1
+813,luxury car-4,mercedes,cle,2025,18
+818,luxury car-4,mercedes,e-class,2025,137
+823,luxury car-4,mercedes,e-class-e,2025,5
+827,luxury car-4,mercedes,eqe,2025,54
+832,luxury car-4,porche,panamera,2025,4
+837,luxury car-4,porche,taycan,2025,1
+843,luxury car-5,audi,a8,2025,1
+857,luxury car-5,bmw,7-series,2025,11
+860,luxury car-5,bmw,i7,2025,5
+876,luxury car-5,mercedes,eqs,2025,14
+881,luxury car-5,mercedes,s-class,2025,7
+888,luxury car-5,rolls royce,ghost,2025,1
+892,luxury car-5,rolls royce,spectre,2025,1
+900,luxury hb,bmw,1-series,2025,1
+907,luxury hb,mercedes,a-class,2025,8
+916,luxury hb,mercedes,b-class,2025,3
+925,luxury hb,mini coper,coper,2025,3
+930,luxury hb,mini coper,countryman,2025,17
+938,luxury hb,mini coper,s,2025,4
+939,luxury hb,smart,1,2025,2
+953,luxury sport,bentli,bentli,2025,3
+968,luxury sport,bmw,z-series,2025,2
+973,luxury sport,ferari,296gts,2025,1
+998,luxury sport,lamborghini,huracan,2025,2
+1011,luxury sport,mazarati,gran-turismo,2025,1
+1020,luxury sport,mercedes,gt,2025,6
+1023,luxury sport,mercedes,sl-class,2025,1
+1032,luxury sport,porche,911,2025,1
+1037,luxury sport,porche,boxter,2025,1
+1042,luxury sport,porche,carrera,2025,2
+1047,luxury sport,porche,cayman,2025,1
+1055,luxury sport,tesla,null,2025,1
+1058,luxury suv-2,alfa romeo,tonale,2025,11
+1067,luxury suv-2,audi,q2,2025,43
+1072,luxury suv-2,audi,q3,2025,83
+1078,luxury suv-2,bmw,x1,2025,94
+1083,luxury suv-2,bmw,x2,2025,7
+1089,luxury suv-2,mercedes,eqa,2025,33
+1094,luxury suv-2,mercedes,gla,2025,17
+1095,luxury suv-2,smart,3,2025,2
+1100,luxury suv-3,alfa romeo,stelvio,2025,10
+1103,luxury suv-3,audi,q4,2025,4
+1106,luxury suv-3,avatr,11,2025,3
+1111,luxury suv-3,bmw,ix3,2025,9
+1116,luxury suv-3,bmw,x3,2025,22
+1120,luxury suv-3,bmw,x4,2025,17
+1129,luxury suv-3,land rover,evoque,2025,8
+1132,luxury suv-3,mazarati,grecale,2025,6
+1136,luxury suv-3,mercedes,eqb,2025,14
+1142,luxury suv-3,mercedes,glb,2025,1
+1147,luxury suv-3,mercedes,glc,2025,107
+1152,luxury suv-3,mercedes,glc-e,2025,3
+1158,luxury suv-3,porche,macan,2025,19
+1162,luxury suv-3,tesla,model-y,2025,1
+1163,luxury suv-3,xpeng,g6,2025,2
+1170,luxury suv-4,audi,q5,2025,5
+1172,luxury suv-4,audi,q5e-tron,2025,1
+1177,luxury suv-4,bentli,bentayga,2025,1
+1183,luxury suv-4,bmw,ix1,2025,3
+1188,luxury suv-4,bmw,x5,2025,28
+1192,luxury suv-4,bmw,x6,2025,20
+1194,luxury suv-4,cadillac ,lyric,2025,1
+1202,luxury suv-4,gmc,envoy,2025,4
+1207,luxury suv-4,gmc,jimmy,2025,2
+1212,luxury suv-4,gmc,terrain,2025,5
+1217,luxury suv-4,jaguar,f-pace,2025,4
+1225,luxury suv-4,land rover,defender,2025,1
+1235,luxury suv-4,land rover,velar,2025,22
+1241,luxury suv-4,mazarati,levante,2025,1
+1244,luxury suv-4,mercedes,a-g63,2025,2
+1251,luxury suv-4,mercedes,gle,2025,64
+1257,luxury suv-4,porche,cayenne,2025,15
+1261,luxury suv-4,xpeng,g9,2025,12
+1266,luxury suv-5,audi,q7,2025,43
+1271,luxury suv-5,audi,q8,2025,16
+1279,luxury suv-5,bmw,x7,2025,6
+1283,luxury suv-5,cadillac ,escalade,2025,6
+1291,luxury suv-5,gmc,acadia,2025,2
+1294,luxury suv-5,gmc,hummer,2025,1
+1296,luxury suv-5,gmc,pocon,2025,1
+1300,luxury suv-5,gmc,yukon,2025,7
+1304,luxury suv-5,lamborghini,urus,2025,1
+1311,luxury suv-5,land rover,range-rover,2025,15
+1329,luxury suv-5,lincoln ,aviator,2025,1
+1334,luxury suv-5,mercedes,eqs-suv,2025,4
+1343,luxury suv-5,mercedes,gls,2025,20
+1345,luxury suv-5,mg,im-ls7,2025,1
+1368,mpv-b,kia,soul,2025,1
+1373,mpv-b,mitsubishi,xpander,2025,170
+1379,mpv-b,suzuki,ertiga,2025,32
+1398,mpv-c,kia,carens,2025,9
+1412,mpv-c,toyota,veloz,2025,6
+1419,mpv-d,kia,carnival,2025,17
+1424,other,baic,other,2025,1
+1432,other,chevrolet,other,2025,3
+1449,other,gmc,other,2025,3
+1454,other,hyundai,other,2025,4
+1466,other,kia,other,2025,3
+1480,other,mitsubishi,other,2025,13
+1485,other,opel,other,2025,1
+1515,suv-b,baic,x3,2025,1
+1518,suv-b,brilliance,v6,2025,40
+1521,suv-b,byd,e2,2025,1
+1525,suv-b,byd,yuan,2025,3
+1529,suv-b,byd,yuan-plus,2025,7
+1534,suv-b,changan,cs15,2025,1
+1549,suv-b,chery,tiggo3,2025,11
+1552,suv-b,chery,tiggo4-pro,2025,285
+1554,suv-b,chery,tiggo5,2025,1
+1571,suv-b,citroen,c3,2025,5
+1591,suv-b,fiat,500-x,2025,1
+1600,suv-b,ford,escape,2025,1
+1603,suv-b,gac,aion-y-plus,2025,1
+1606,suv-b,gac,emzoom,2025,31
+1613,suv-b,geely,coolray,2025,79
+1622,suv-b,geely,gx3,2025,27
+1633,suv-b,honda,ens1,2025,1
+1638,suv-b,honda,hr-v,2025,4
+1642,suv-b,hyundai,bayon,2025,1
+1647,suv-b,hyundai,creta,2025,13
+1661,suv-b,jac,s2,2025,34
+1688,suv-b,kia,sonet,2025,1
+1693,suv-b,kia,xceed,2025,106
+1707,suv-b,mg,zs,2025,447
+1720,suv-b,nissan,juke,2025,30
+1729,suv-b,opel,crossland,2025,10
+1733,suv-b,opel,mokka,2025,124
+1738,suv-b,peugeot,2008,2025,29
+1746,suv-b,renault,duster,2025,93
+1751,suv-b,seat,arona,2025,75
+1758,suv-b,suzuki,fronx,2025,6
+1762,suv-b,suzuki,jimny,2025,2
+1779,suv-b,volkswagen,t-roc,2025,15
+1783,suv-b,volvo,ex30,2025,18
+1791,suv-c,baic,x55,2025,40
+1796,suv-c,baic,x7,2025,20
+1804,suv-c,bestune,t77,2025,1
+1811,suv-c,buick,velite-6,2025,1
+1816,suv-c,byd,ev600,2025,1
+1821,suv-c,byd,sealion,2025,2
+1823,suv-c,byd,song-l,2025,44
+1826,suv-c,byd,song-plus,2025,41
+1829,suv-c,byd,tang,2025,7
+1837,suv-c,changan,cs35,2025,3
+1840,suv-c,changan,cs35-plus,2025,27
+1845,suv-c,changan,cs55,2025,2
+1848,suv-c,changan,cs55-plus,2025,35
+1853,suv-c,changan,uni-t,2025,21
+1859,suv-c,chery,eq7,2025,2
+1866,suv-c,chery,tiggo4,2025,92
+1871,suv-c,chery,tiggo7,2025,448
+1875,suv-c,chery,tiggo7-pro,2025,66
+1880,suv-c,chery,tiggo8,2025,194
+1884,suv-c,chery,tiggo8-pro,2025,31
+1889,suv-c,chevrolet,captiva,2025,59
+1894,suv-c,chevrolet,equinox,2025,3
+1903,suv-c,chevrolet,trax,2025,1
+1908,suv-c,citroen,c4,2025,28
+1911,suv-c,citroen,c4x,2025,134
+1916,suv-c,citroen,c5,2025,54
+1920,suv-c,cubra,formentor,2025,23
+1927,suv-c,dfsk,eagle,2025,1
+1942,suv-c,ds,ds4,2025,9
+1947,suv-c,ds,ds7,2025,10
+1953,suv-c,exeed,txl,2025,1
+1962,suv-c,gac,emkoo,2025,13
+1970,suv-c,geely,starray,2025,15
+1983,suv-c,haval,h6,2025,87
+1988,suv-c,haval,jolion,2025,23
+1995,suv-c,honda,cr-v,2025,25
+1998,suv-c,honda,e-np1,2025,3
+2005,suv-c,honda,zr-v,2025,22
+2014,suv-c,hyundai,tucson,2025,528
+2032,suv-c,jetour,dashing,2025,97
+2037,suv-c,jetour,x70,2025,7
+2040,suv-c,jetour,x70-plus,2025,102
+2045,suv-c,jetour,x95,2025,1
+2047,suv-c,kgm,actyon,2025,2
+2049,suv-c,kgm,tivoli,2025,2
+2052,suv-c,kgm,torres,2025,117
+2060,suv-c,kia,seltos,2025,16
+2065,suv-c,kia,sportage,2025,291
+2079,suv-c,mg,hs,2025,63
+2082,suv-c,mg,one,2025,250
+2087,suv-c,mg,rx5,2025,252
+2093,suv-c,mitsubishi,eclipse,2025,203
+2095,suv-c,mitsubishi,outlander,2025,50
+2101,suv-c,nissan,qashqai,2025,212
+2105,suv-c,nissan,x-trail,2025,12
+2110,suv-c,opel,grandland,2025,41
+2115,suv-c,peugeot,3008,2025,249
+2118,suv-c,peugeot,408,2025,93
+2123,suv-c,peugeot,5008,2025,4
+2130,suv-c,renault,arkana,2025,1
+2133,suv-c,renault,austral,2025,203
+2142,suv-c,seat,ateca,2025,173
+2147,suv-c,seat,tarraco,2025,29
+2153,suv-c,skoda,kamiq,2025,2
+2158,suv-c,skoda,karoq,2025,1
+2163,suv-c,skoda,kodiaq,2025,342
+2175,suv-c,soueast,dx8s,2025,1
+2191,suv-c,subaru,crosstrek,2025,7
+2193,suv-c,subaru,forester,2025,1
+2203,suv-c,suzuki,grand-vitara,2025,7
+2206,suv-c,toyota,bz4x,2025,2
+2213,suv-c,toyota,rav-4,2025,1
+2218,suv-c,toyota,rush,2025,13
+2221,suv-c,toyota,urban-cruise,2025,100
+2224,suv-c,vgv,u70-pro,2025,16
+2229,suv-c,volkswagen,id4,2025,35
+2234,suv-c,volkswagen,taos,2025,1
+2239,suv-c,volkswagen,tiguan,2025,385
+2242,suv-c,volvo,c40,2025,8
+2247,suv-c,volvo,xc40,2025,4
+2252,suv-c,volvo,xc60,2025,15
+2264,suv-d,baic,bj30,2025,18
+2266,suv-d,baic,bj30e,2025,31
+2280,suv-d,dongfeng,huge,2025,15
+2282,suv-d,exeed,rx,2025,23
+2288,suv-d,ford,territory,2025,1
+2293,suv-d,geely,okavango,2025,11
+2305,suv-d,hyundai,santafe,2025,20
+2314,suv-d,jeep,grand-cherokee,2025,36
+2317,suv-d,jetour,t2,2025,87
+2320,suv-d,jetour,x90-plus,2025,113
+2324,suv-d,kia,ev5,2025,5
+2326,suv-d,kia,ev9,2025,1
+2334,suv-d,kia,sorento,2025,63
+2343,suv-d,mitsubishi,pajero,2025,2
+2345,suv-d,nissan,rogue,2025,2
+2360,suv-d,toyota,fortuner,2025,74
+2366,suv-d,toyota,prado,2025,3
+2370,suv-d,volkswagen,id6,2025,27
+2373,suv-d,volkswagen,teramont,2025,1
+2376,suv-d,volkswagen,tourag,2025,14
+2393,suv-d,volvo,xc90,2025,2
+2407,suv-e,nissan,patrol,2025,3
+2415,suv-e,toyota,land-cruiser,2025,13
